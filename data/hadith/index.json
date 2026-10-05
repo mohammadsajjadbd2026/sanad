@@ -1,0 +1,2013 @@
+[
+ {
+  "id": "h-001",
+  "text_ar": "إنَّما الأعمالُ بالنِّيَّاتِ، وإنَّما لكُلِّ امرِئٍ ما نَوى، فمَن كانَت هِجرَتُه إلى دُنيا يُصيبُها، أو إلى امرَأةٍ يَنكِحُها، فهِجرَتُه إلى ما هاجَرَ إليه.",
+  "rawi": "عمر بن الخطاب",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "1",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/45wXAdej",
+  "common_translations": {
+   "en": [
+    "Actions are judged by intentions",
+    "Deeds are only by intentions"
+   ],
+   "bn": [
+    "কর্ম নিয়তের উপর নির্ভরশীল",
+    "সকল আমল নিয়তের উপরই নির্ভরশীল"
+   ],
+   "ur": [
+    "اعمال کا دارومدار نیتوں پر ہے"
+   ]
+  },
+  "topic": "النية",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-002",
+  "text_ar": "بُنيَ الإسلامُ على خَمسٍ: شَهادةِ أن لا إلَهَ إلَّا اللهُ وأنَّ مُحَمَّدًا رَسولُ اللهِ، وإقامِ الصَّلاةِ، وإيتاءِ الزَّكاةِ، والحَجِّ، وصَومِ رَمَضانَ.",
+  "rawi": "عبدالله بن عمر",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "8",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "16",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/JDqeTpYd",
+  "common_translations": {
+   "en": [
+    "Islam is built upon five pillars"
+   ],
+   "bn": [
+    "ইসলাম পাঁচটি স্তম্ভের উপর প্রতিষ্ঠিত"
+   ],
+   "ur": [
+    "اسلام کی بنیاد پانچ چیزوں پر رکھی گئی ہے"
+   ]
+  },
+  "topic": "أركان الإسلام",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-003",
+  "text_ar": "الدِّينُ النَّصيحةُ. قُلنا: لمَن؟ قال: للَّهِ ولكِتابِه ولرَسولِه، ولأئِمَّةِ المُسلِمينَ وعامَّتِهم.",
+  "rawi": "تميم الداري",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "55",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/EsvPuuoh",
+  "common_translations": {
+   "en": [
+    "Religion is sincere advice",
+    "The religion is naseehah"
+   ],
+   "bn": [
+    "দ্বীন হলো কল্যাণ কামনা"
+   ],
+   "ur": [
+    "دین خیر خواہی کا نام ہے"
+   ]
+  },
+  "topic": "النصيحة",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-004",
+  "text_ar": "إنَّ من حُسْنِ إسلامِ المرءِ تَركَهُ ما لا يَعْنِيهِ",
+  "rawi": "علي بن الحسين بن علي",
+  "rulings": [
+   {
+    "muhaddith": "الترمذي",
+    "source": "سنن الترمذي",
+    "ref": "2318",
+    "ruling_text": "مرسل",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_WEAK",
+  "url": "https://dorar.net/h/ijTwbx0D",
+  "common_translations": {
+   "en": [
+    "Part of the perfection of one's Islam is leaving what does not concern him"
+   ],
+   "bn": [
+    "কোনো ব্যক্তির ইসলামের সৌন্দর্য হলো অনর্থক বিষয় ত্যাগ করা"
+   ],
+   "ur": [
+    "آدمی کے اسلام کی خوبی یہ ہے کہ وہ لایعنی باتوں کو چھوڑ دے"
+   ]
+  },
+  "topic": "الأخلاق",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-005",
+  "text_ar": "لا يُؤمِنُ أحَدُكُم حتَّى يُحِبَّ لأخيه ما يُحِبُّ لنَفسِه.",
+  "rawi": "أنس بن مالك",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "13",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/a3n67ZEt",
+  "common_translations": {
+   "en": [
+    "None of you truly believes until he loves for his brother what he loves for himself"
+   ],
+   "bn": [
+    "তোমাদের কেউ ততক্ষণ মুমিন হবে না যতক্ষণ না সে নিজের জন্য যা পছন্দ করে তার ভাইয়ের জন্যও তা পছন্দ করে"
+   ],
+   "ur": [
+    "تم میں سے کوئی مومن نہیں ہو سکتا جب تک اپنے بھائی کے لیے وہی پسند نہ کرے جو اپنے لیے پسند کرتا ہے"
+   ]
+  },
+  "topic": "الأخوة الإيمانية",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-006",
+  "text_ar": "المُسلِمُ مَن سَلِمَ المُسلِمونَ مِن لسانِه ويَدِه، والمُهاجِرُ مَن هَجَرَ ما نَهى اللهُ عنه.",
+  "rawi": "عبدالله بن عمرو",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "6484",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "مسلم مختصرا",
+    "source": "صحيح مسلم",
+    "ref": "40",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/DmRdWSfQ",
+  "common_translations": {
+   "en": [
+    "A Muslim is one from whose tongue and hand the Muslims are safe"
+   ],
+   "bn": [
+    "মুসলিম সেই যার জিহ্বা ও হাত থেকে অন্য মুসলিমরা নিরাপদ"
+   ],
+   "ur": [
+    "مسلمان وہ ہے جس کی زبان اور ہاتھ سے دوسرے مسلمان محفوظ رہیں"
+   ]
+  },
+  "topic": "الأخلاق",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-007",
+  "text_ar": "مَن كان يُؤمِنُ باللهِ واليَومِ الآخِرِ فليُكرِمْ ضَيفَه، ومَن كان يُؤمِنُ باللهِ واليَومِ الآخِرِ فليَصِلْ رَحِمَه، ومَن كان يُؤمِنُ باللهِ واليَومِ الآخِرِ فليَقُلْ خَيرًا أو ليَصمُتْ.",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "6138",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "47",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/Mgy5kJET",
+  "common_translations": {
+   "en": [
+    "Whoever believes in Allah and the Last Day, let him speak good or remain silent"
+   ],
+   "bn": [
+    "যে আল্লাহ ও আখিরাতে বিশ্বাস রাখে সে যেন ভালো কথা বলে অথবা চুপ থাকে"
+   ],
+   "ur": [
+    "جو اللہ اور آخرت پر ایمان رکھتا ہے وہ اچھی بات کہے یا خاموش رہے"
+   ]
+  },
+  "topic": "آداب الكلام",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-008",
+  "text_ar": "إن اللهَ كتبَ الإحسانَ على كلِّ شيءٍ، فإذا قتلتم فأحسِنوا القِتلَةَ ، و إذا ذبحتم فأحسنوا الذبحةَ، و ليُحِدَّ أحدُكم شفرتَه، و ليُرحْ ذبيحتَه.",
+  "rawi": "شداد بن أوس",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "1955",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/Jzy3V9M2",
+  "common_translations": {
+   "en": [
+    "Indeed Allah has prescribed excellence in everything"
+   ],
+   "bn": [
+    "নিশ্চয়ই আল্লাহ প্রত্যেক বিষয়ে ইহসান (উত্তম আচরণ) বাধ্যতামূলক করেছেন"
+   ],
+   "ur": [
+    "بے شک اللہ نے ہر چیز میں احسان کو لازم کیا ہے"
+   ]
+  },
+  "topic": "الإحسان",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-009",
+  "text_ar": "سَمِعتُ رسولَ اللهِ صلَّى اللهُ عليه وسلَّمَ، وأَومَأَ بإصبَعَيْه إلى أُذنَيْه: إنَّ الحَلالَ بَيِّنٌ، والحَرامَ بَيِّنٌ، وإنَّ بيْنَ الحَلالِ والحَرامِ مُشبَّهاتٍ، لا يدري كُثيرٌ مِن النَّاسِ أمِن الحَلالِ هي، أم مِن الحَرامِ، فمَن تَرَكَها؛ استبرَأَ لدِينِه وعِرضِه ، ومَن واقَعَها؛ يُوشِكْ أنْ يُواقِعَ الحَرامَ؛ فمَن رَعى إلى جَنبِ حِمًى، يُوشِكْ أنْ يَرتَعَ فيه؛ ولكُلِّ ملِكٍ حِمًى، وإنَّ حِمى اللهِ مَحارمُه.",
+  "rawi": "النعمان بن بشير",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "52",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "مسلم بلفظ مقارب",
+    "source": "صحيح مسلم",
+    "ref": "1599",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/TmmMAIIa",
+  "common_translations": {
+   "en": [
+    "The halal is clear and the haram is clear"
+   ],
+   "bn": [
+    "হালাল সুস্পষ্ট এবং হারামও সুস্পষ্ট"
+   ],
+   "ur": [
+    "حلال واضح ہے اور حرام بھی واضح ہے"
+   ]
+  },
+  "topic": "الورع",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-010",
+  "text_ar": "دعْ ما يَريبُكَ إلى مَا لا يَريبُكَ فإنَّ الصدقَ طمَأْنِينَةُ والكذِبَ رِيبَةٌ",
+  "rawi": "الحسن بن علي بن أبي طالب",
+  "rulings": [
+   {
+    "muhaddith": "ابن حبان",
+    "source": "المقاصد الحسنة",
+    "ref": "256",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "النسائي",
+    "source": "سنن النسائي",
+    "ref": "5711",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [
+   {
+    "muhaddith": "الترمذي",
+    "source": "سنن الترمذي",
+    "ref": "2518"
+   }
+  ],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/TX5dxKQI",
+  "common_translations": {
+   "en": [
+    "Leave what makes you doubt for what does not make you doubt"
+   ],
+   "bn": [
+    "যা তোমাকে সন্দেহে ফেলে তা ছেড়ে যা সন্দেহমুক্ত তা গ্রহণ করো"
+   ],
+   "ur": [
+    "جو چیز تجھے شک میں ڈالے اسے چھوڑ کر وہ اختیار کر جو شک سے پاک ہو"
+   ]
+  },
+  "topic": "الورع",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-011",
+  "text_ar": "لا ضَررَ ولا ضِرارَ.",
+  "rawi": "عبدالله بن عباس",
+  "rulings": [
+   {
+    "muhaddith": "ابن ماجه",
+    "source": "سنن ابن ماجه",
+    "ref": "2341",
+    "ruling_text": "حسن بمجموع طرقه",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [
+   {
+    "muhaddith": "أحمد",
+    "source": "مسند أحمد",
+    "ref": "2865"
+   }
+  ],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/cFhlyl27",
+  "common_translations": {
+   "en": [
+    "There should be neither harming nor reciprocating harm"
+   ],
+   "bn": [
+    "ক্ষতি করা যাবে না এবং ক্ষতির প্রতিশোধে ক্ষতিও করা যাবে না"
+   ],
+   "ur": [
+    "نہ نقصان اٹھانا ہے نہ نقصان پہنچانا"
+   ]
+  },
+  "topic": "القواعد الفقهية",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-012",
+  "text_ar": "أوَّلُ مَن بَدَأ بالخُطبةِ يَومَ العيدِ قَبلَ الصَّلاةِ مَروانُ. فقامَ إليه رَجُلٌ، فقال: الصَّلاةُ قَبلَ الخُطبةِ، فقال: قد تُرِك ما هُنالِك، فقال أبو سَعيدٍ: أمَّا هذا فقد قَضى ما عليه، سَمِعتُ رَسولَ اللهِ صلَّى اللهُ عليه وسلَّم يقولُ: مَن رَأى مِنكُم مُنكَرًا فليُغَيِّرْه بيَدِه، فإن لَم يَستَطِعْ فبِلِسانِه، فإن لَم يَستَطِعْ فبِقَلبِه، وذلك أضعَفُ الإيمانِ.",
+  "rawi": "أبو سعيد الخدري",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "49",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/kw7k6w7U",
+  "common_translations": {
+   "en": [
+    "Whoever among you sees an evil, let him change it with his hand"
+   ],
+   "bn": [
+    "তোমাদের কেউ অন্যায় দেখলে সে যেন হাত দিয়ে তা পরিবর্তন করে"
+   ],
+   "ur": [
+    "تم میں سے جو برائی دیکھے وہ اسے اپنے ہاتھ سے بدل دے"
+   ]
+  },
+  "topic": "الأمر بالمعروف",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-013",
+  "text_ar": "الطُّهورُ شطرُ الإيمانِ، والحمدُ للَّهِ تملأُ الميزانَ",
+  "rawi": "أبو مالك الأشعري",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "223",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/f9AZVYqM",
+  "common_translations": {
+   "en": [
+    "Purification is half of faith",
+    "Cleanliness is half of faith"
+   ],
+   "bn": [
+    "পবিত্রতা ঈমানের অর্ধেক"
+   ],
+   "ur": [
+    "پاکیزگی نصف ایمان ہے"
+   ]
+  },
+  "topic": "الطهارة",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-014",
+  "text_ar": "أيُّها النَّاسُ، إنَّ اللهَ طَيِّبٌ لا يَقبَلُ إلَّا طَيِّبًا، وإنَّ اللهَ أمَرَ المُؤمِنينَ بما أمَرَ به المُرسَلينَ، فقال: {يا أيُّها الرُّسُلُ كُلوا مِنَ الطَّيِّباتِ واعمَلوا صالِحًا إنِّي بما تَعمَلونَ عَليمٌ} [المؤمنون: 51]، وقال: {يا أيُّها الذينَ آمَنوا كُلوا مِن طَيِّباتِ ما رَزَقناكُم} [البقرة: 172]، ثُمَّ ذَكَرَ الرَّجُلَ يُطيلُ السَّفَرَ أشعَثَ أغبَرَ، يَمُدُّ يَدَيه إلى السَّماءِ، يا رَبِّ، يا رَبِّ، ومَطعَمُه حَرامٌ، ومَشرَبُه حَرامٌ، ومَلبَسُه حَرامٌ، وغُذيَ بالحَرامِ، فأنَّى يُستَجابُ لذلك؟!",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "1015",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/opZZUyEc",
+  "common_translations": {
+   "en": [
+    "Allah is Pure and accepts only what is pure"
+   ],
+   "bn": [
+    "আল্লাহ পবিত্র, তিনি কেবল পবিত্র জিনিসই কবুল করেন"
+   ],
+   "ur": [
+    "اللہ پاک ہے اور صرف پاک چیز ہی قبول کرتا ہے"
+   ]
+  },
+  "topic": "الرزق الحلال",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-015",
+  "text_ar": "اتَّقِ اللهَ حيثُما كنتَ، وأتبِعِ السَّيِّئةَ الحسَنةَ تَمْحُهَا، وخالِقِ النَّاسَ بخُلُقٍ حَسنٍ.",
+  "rawi": "أبو ذر الغفاري",
+  "rulings": [
+   {
+    "muhaddith": "الترمذي",
+    "source": "سنن الترمذي",
+    "ref": "1987",
+    "ruling_text": "حسن لغيره",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [
+   {
+    "muhaddith": "أحمد",
+    "source": "مسند أحمد",
+    "ref": "21392"
+   }
+  ],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/BLzvWbWk",
+  "common_translations": {
+   "en": [
+    "Fear Allah wherever you are, and follow a bad deed with a good one to erase it"
+   ],
+   "bn": [
+    "যেখানেই থাকো আল্লাহকে ভয় করো এবং মন্দ কাজের পর ভালো কাজ করো, তা মন্দকে মুছে দেবে"
+   ],
+   "ur": [
+    "تم جہاں بھی ہو اللہ سے ڈرو اور برائی کے بعد نیکی کرو وہ اسے مٹا دے گی"
+   ]
+  },
+  "topic": "التقوى",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-016",
+  "text_ar": "احفظِ اللهَ يَحفظْك، احفظِ اللهَ تجِدْه تُجاهَك ، إذا سألتَ فاسألِ اللهَ، وإذا استعنتَ فاستعِنْ باللهِ",
+  "rawi": "عبدالله بن عباس",
+  "rulings": [
+   {
+    "muhaddith": "الترمذي",
+    "source": "سنن الترمذي",
+    "ref": "2516",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "أحمد",
+    "source": "مسند أحمد",
+    "ref": "2763",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/ivY1kLeB",
+  "common_translations": {
+   "en": [
+    "Protect Allah's rights and He will protect you"
+   ],
+   "bn": [
+    "আল্লাহকে হেফাজত করো, আল্লাহ তোমাকে হেফাজত করবেন"
+   ],
+   "ur": [
+    "اللہ کی حفاظت کرو اللہ تمہاری حفاظت کرے گا"
+   ]
+  },
+  "topic": "التوكل",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-017",
+  "text_ar": "آخرُ ما أدركَ النَّاسُ مِن كلامِ النُّبَوَّةِ الأُولَى، إذا لَم تَسْتَحِ، فاصنعْ ما شئتَ",
+  "rawi": "أبو مسعود عقبة بن عمرو",
+  "rulings": [
+   {
+    "muhaddith": "ابن أبي شيبة",
+    "source": "المصنف",
+    "ref": "25857",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "الألباني",
+    "source": "صحيح الجامع",
+    "ref": "2",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/DPn6teG6",
+  "common_translations": {
+   "en": [
+    "If you have no shame, do as you wish"
+   ],
+   "bn": [
+    "যদি তোমার লজ্জা না থাকে তবে যা খুশি করো"
+   ],
+   "ur": [
+    "جب تم میں حیا نہ رہے تو جو چاہو کرو"
+   ]
+  },
+  "topic": "الحياء",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-018",
+  "text_ar": "قُلتُ: يا رَسولَ اللهِ، قُلْ لي في الإسلامِ قَولًا لا أسألُ عنه أحَدًا بَعدَك، وفي حَديثِ أبي أُسامةَ: غَيرَك، قال: قُل: آمَنتُ باللهِ، ثمَّ استَقِمْ.",
+  "rawi": "سفيان بن عبدالله الثقفي",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "38",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/BPPs4Aqt",
+  "common_translations": {
+   "en": [
+    "Say: I believe in Allah, and then be steadfast"
+   ],
+   "bn": [
+    "বলো, আমি আল্লাহর প্রতি ঈমান আনলাম, অতঃপর অবিচল থাকো"
+   ],
+   "ur": [
+    "کہو میں اللہ پر ایمان لایا پھر اس پر ثابت قدم رہو"
+   ]
+  },
+  "topic": "الاستقامة",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-019",
+  "text_ar": "الإيمانُ بضعٌ وسَبعونَ شُعبةً، والحَياءُ شُعبةٌ مِنَ الإيمانِ.",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "35",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/FHIwMJth",
+  "common_translations": {
+   "en": [
+    "Faith has over seventy branches"
+   ],
+   "bn": [
+    "ঈমানের সত্তরের অধিক শাখা রয়েছে"
+   ],
+   "ur": [
+    "ایمان کی ستر سے زائد شاخیں ہیں"
+   ]
+  },
+  "topic": "الإيمان",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-020",
+  "text_ar": "الحَياءُ لا يَأتي إلَّا بخَيرٍ. فقال بُشيرُ بنُ كَعبٍ: إنَّه مَكتوبٌ في الحِكمةِ: أنَّ منه وقارًا، ومِنْه سَكينةً، فقال عِمرانُ: أُحَدِّثُك عن رَسولِ اللهِ صلَّى اللهُ عليه وسلَّم، وتُحَدِّثُني عن صُحُفِك؟!",
+  "rawi": "عمران بن الحصين",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "37",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "6117",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "الألباني",
+    "source": "صحيح الجامع",
+    "ref": "3202",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/A3JcyVw4",
+  "common_translations": {
+   "en": [
+    "Modesty brings nothing but good"
+   ],
+   "bn": [
+    "লজ্জা কেবল কল্যাণই বয়ে আনে"
+   ],
+   "ur": [
+    "حیا صرف خیر ہی لاتی ہے"
+   ]
+  },
+  "topic": "الحياء",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-021",
+  "text_ar": "كَلِمَتانِ خَفيفَتانِ على اللِّسانِ، ثَقيلَتانِ في الميزانِ، حَبيبَتانِ إلى الرَّحمَنِ: سُبحانَ اللهِ العَظيمِ، سُبحانَ اللهِ وبحَمدِه.",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "6406",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "2694"
+   }
+  ],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/PBT76jn6",
+  "common_translations": {
+   "en": [
+    "Two words light on the tongue, heavy on the scale: SubhanAllahi wa bihamdihi, SubhanAllahil Azeem"
+   ],
+   "bn": [
+    "দুটি বাক্য জিহ্বায় হালকা, মিযানে ভারী: সুবহানাল্লাহি ওয়া বিহামদিহী, সুবহানাল্লাহিল আযীম"
+   ],
+   "ur": [
+    "دو کلمے زبان پر ہلکے اور میزان میں بھاری ہیں: سبحان اللہ وبحمدہ، سبحان اللہ العظیم"
+   ]
+  },
+  "topic": "الذكر",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-022",
+  "text_ar": "مَن قال: سُبحانَ اللهِ وبحَمدِه، في يَومٍ مِائةَ مَرَّةٍ، حُطَّت خَطاياه وإن كانَت مِثلَ زَبَدِ البَحرِ.",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "6405",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "2691",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/ihf75Mah",
+  "common_translations": {
+   "en": [
+    "Whoever says SubhanAllah wa bihamdihi a hundred times a day, his sins are wiped away even if like the foam of the sea"
+   ],
+   "bn": [
+    "যে দিনে একশ বার সুবহানাল্লাহি ওয়া বিহামদিহী বলে তার গুনাহ সমুদ্রের ফেনার সমান হলেও মাফ করা হয়"
+   ],
+   "ur": [
+    "جو دن میں سو مرتبہ سبحان اللہ وبحمدہ کہے اس کے گناہ سمندر کے جھاگ کے برابر ہوں تب بھی معاف کر دیے جاتے ہیں"
+   ]
+  },
+  "topic": "الذكر",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-023",
+  "text_ar": "الكَلِمةُ الطيِّبةُ صَدَقةٌ، وكلُّ خُطوةٍ يَخطوها إلى الصَّلاةِ صَدَقةٌ.",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "2989",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "1009",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/rSILzBjz",
+  "common_translations": {
+   "en": [
+    "A good word is charity"
+   ],
+   "bn": [
+    "ভালো কথা সদকা"
+   ],
+   "ur": [
+    "اچھی بات صدقہ ہے"
+   ]
+  },
+  "topic": "الصدقة",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-024",
+  "text_ar": "تبسُّمُكَ في وجهِ أخيكَ صدقةٌ",
+  "rawi": "أبو ذر الغفاري",
+  "rulings": [
+   {
+    "muhaddith": "شعيب الأرناؤوط",
+    "source": "تخريج صحيح ابن حبان",
+    "ref": "474",
+    "ruling_text": "[فيه] مرثد والد مالك لم يوثقه غير المؤلف، وقال الذهبي: ليس بمعروف",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "الصنعاني",
+    "source": "التنوير شرح الجامع الصغير",
+    "ref": "4/599",
+    "ruling_text": "فيه عكرمة بن عمار العجلي، قال أبو حاتم ثقة ربما يهم، وقال أحمد: ضعيف، وقال البخاري: لم يكن له كتاب فاضطرب حديثه",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_WEAK",
+  "url": "https://dorar.net/h/7aQ7gIiO",
+  "common_translations": {
+   "en": [
+    "Your smile in the face of your brother is charity"
+   ],
+   "bn": [
+    "তোমার ভাইয়ের সামনে হাসিমুখে থাকা সদকা"
+   ],
+   "ur": [
+    "اپنے بھائی کے سامنے تمہارا مسکرانا صدقہ ہے"
+   ]
+  },
+  "topic": "الصدقة",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-025",
+  "text_ar": "خَيرُكُم مَن تَعَلَّمَ القُرآنَ وعَلَّمَه. قال: وأقرَأ أبو عبدِ الرَّحمَنِ في إمرةِ عُثمانَ، حتَّى كان الحَجَّاجُ قال: وذاك الذي أقعَدَني مَقعَدي هذا.",
+  "rawi": "عثمان بن عفان",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "5027",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/ymYWjzdb",
+  "common_translations": {
+   "en": [
+    "The best among you are those who learn the Quran and teach it"
+   ],
+   "bn": [
+    "তোমাদের মধ্যে সর্বোত্তম সেই যে কুরআন শেখে এবং শেখায়"
+   ],
+   "ur": [
+    "تم میں بہترین وہ ہے جو قرآن سیکھے اور سکھائے"
+   ]
+  },
+  "topic": "فضل القرآن",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-026",
+  "text_ar": "من سلك طريقًا يلتمسُ فيه علمًا، سهَّل اللهُ له طريقًا إلى الجنَّةِ",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم مطولا",
+    "ref": "2699",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "الألباني",
+    "source": "صحيح الجامع",
+    "ref": "6298",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [
+   {
+    "muhaddith": "أحمد",
+    "source": "مسند أحمد",
+    "ref": "8316"
+   }
+  ],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/KTo2Dd9e",
+  "common_translations": {
+   "en": [
+    "Whoever treads a path seeking knowledge, Allah makes easy for him a path to Paradise"
+   ],
+   "bn": [
+    "যে ইলম অন্বেষণে পথ চলে আল্লাহ তার জন্য জান্নাতের পথ সহজ করে দেন"
+   ],
+   "ur": [
+    "جو علم کی تلاش میں راستہ چلے اللہ اس کے لیے جنت کا راستہ آسان کر دیتا ہے"
+   ]
+  },
+  "topic": "فضل العلم",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-027",
+  "text_ar": "طلبُ العلمِ فريضةٌ على كلِّ مسلمٍ",
+  "rawi": "عبدالله بن عمر",
+  "rulings": [
+   {
+    "muhaddith": "ابن حبان",
+    "source": "المجروحين",
+    "ref": "1/152",
+    "ruling_text": "ليس بصحيح",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "النووي",
+    "source": "فتاوى النووي",
+    "ref": "249",
+    "ruling_text": "إسناده ضعيف",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "الذهبي",
+    "source": "ميزان الاعتدال",
+    "ref": "3/15",
+    "ruling_text": "إسناده ضعيف",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_WEAK",
+  "url": "https://dorar.net/h/Y5dRyfXQ",
+  "common_translations": {
+   "en": [
+    "Seeking knowledge is an obligation upon every Muslim"
+   ],
+   "bn": [
+    "ইলম অন্বেষণ প্রত্যেক মুসলিমের উপর ফরয"
+   ],
+   "ur": [
+    "علم حاصل کرنا ہر مسلمان پر فرض ہے"
+   ]
+  },
+  "topic": "فضل العلم",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-028",
+  "text_ar": "إذا مات ابنُ آدمَ انقطع عملُه إلا من ثلاثٍ : صدقةٍ جاريةٍ , أو علمٍ يُنتفَعُ به, أو ولدٌ صالحٌ يدعو له",
+  "rawi": "[أبو هريرة]",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "1631",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/lgXuQ4HL",
+  "common_translations": {
+   "en": [
+    "When a person dies his deeds end except three: ongoing charity, beneficial knowledge, a righteous child who prays for him"
+   ],
+   "bn": [
+    "মানুষ মারা গেলে তিনটি ছাড়া তার আমল বন্ধ হয়ে যায়: সদকায়ে জারিয়া, উপকারী ইলম ও নেক সন্তান"
+   ],
+   "ur": [
+    "جب انسان مر جاتا ہے تو تین چیزوں کے سوا اس کا عمل منقطع ہو جاتا ہے: صدقہ جاریہ، نفع بخش علم، نیک اولاد"
+   ]
+  },
+  "topic": "الصدقة الجارية",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-029",
+  "text_ar": "مَن حَجَّ عن مَيِّتٍ فلِلَّذي حَجَّ عنه مِثْلُ أَجْرِهِ، ومن فَطَّرَ صائمًا فله مِثْلُ أجرِهِ، ومن دَلَّ على خيرٍ فله مِثْلُ أَجْرِ فاعِلِهِ",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "الطبراني",
+    "source": "المعجم الأوسط",
+    "ref": "5818",
+    "ruling_text": "ضعيف، الألباني",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_WEAK",
+  "url": "https://dorar.net/h/GKuEqaWW",
+  "common_translations": {
+   "en": [
+    "Whoever guides to good will have a reward like the one who does it"
+   ],
+   "bn": [
+    "যে কল্যাণের পথ দেখায় সে তার আমলকারীর সমান সওয়াব পায়"
+   ],
+   "ur": [
+    "جو نیکی کی طرف رہنمائی کرے اسے اس پر عمل کرنے والے کے برابر اجر ملتا ہے"
+   ]
+  },
+  "topic": "الدعوة",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-030",
+  "text_ar": "الدُّنيا سِجنُ المُؤمِنِ، وجَنَّةُ الكافِرِ.",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "2956",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/HhUOmW5o",
+  "common_translations": {
+   "en": [
+    "The world is a prison for the believer and a paradise for the disbeliever"
+   ],
+   "bn": [
+    "দুনিয়া মুমিনের জন্য কারাগার এবং কাফিরের জন্য জান্নাত"
+   ],
+   "ur": [
+    "دنیا مومن کے لیے قید خانہ اور کافر کے لیے جنت ہے"
+   ]
+  },
+  "topic": "الزهد",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-031",
+  "text_ar": "كن في الدنيا كأنك غريبٌ، أو عابرُ سبيلٍ",
+  "rawi": "عبدالله بن عمر",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "6416",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/KRAWTRlQ",
+  "common_translations": {
+   "en": [
+    "Be in this world as if you were a stranger or a traveller"
+   ],
+   "bn": [
+    "দুনিয়াতে এমনভাবে থাকো যেন তুমি একজন অপরিচিত অথবা পথিক"
+   ],
+   "ur": [
+    "دنیا میں ایسے رہو جیسے تم اجنبی یا مسافر ہو"
+   ]
+  },
+  "topic": "الزهد",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-032",
+  "text_ar": "ازْهَدْ في الدنيا يُحِبَّكَ اللهُ...",
+  "rawi": "عبدالله بن عمر",
+  "rulings": [
+   {
+    "muhaddith": "ابن حجر العسقلاني",
+    "source": "لسان الميزان",
+    "ref": "1/615",
+    "ruling_text": "منكر",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [
+   {
+    "muhaddith": "ابن عساكر",
+    "source": "تاريخ دمشق",
+    "ref": "10/199"
+   }
+  ],
+  "derived_status": "HADITH_WEAK",
+  "url": "https://dorar.net/h/nq87ZvbO",
+  "common_translations": {
+   "en": [
+    "Renounce the world and Allah will love you"
+   ],
+   "bn": [
+    "দুনিয়ার প্রতি অনাসক্ত হও, আল্লাহ তোমাকে ভালোবাসবেন"
+   ],
+   "ur": [
+    "دنیا سے بے رغبت ہو جاؤ اللہ تم سے محبت کرے گا"
+   ]
+  },
+  "topic": "الزهد",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-033",
+  "text_ar": "لو كانت الدُّنيا تعدِلُ عند اللهِ جناحَ بعوضةٍ ما سقَى كافرًا منها شرْبةَ ماءٍ",
+  "rawi": "سهل بن سعد الساعدي",
+  "rulings": [
+   {
+    "muhaddith": "الترمذي",
+    "source": "سنن الترمذي",
+    "ref": "2320",
+    "ruling_text": "صحيح لغيره",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "الألباني",
+    "source": "السلسلة الصحيحة",
+    "ref": "943",
+    "ruling_text": "صحيح لغيره",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/RXjaCUA7",
+  "common_translations": {
+   "en": [
+    "If the world were worth the wing of a mosquito to Allah, He would not give a disbeliever a sip of water from it"
+   ],
+   "bn": [
+    "দুনিয়া যদি আল্লাহর কাছে মশার ডানার সমানও হতো তবে তিনি কাফিরকে এক ঢোক পানিও দিতেন না"
+   ],
+   "ur": [
+    "اگر دنیا اللہ کے نزدیک مچھر کے پر کے برابر بھی ہوتی تو کافر کو اس سے ایک گھونٹ پانی نہ پلاتا"
+   ]
+  },
+  "topic": "الزهد",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-034",
+  "text_ar": "ما مَلَأ آدمِيٌّ وِعاءً شَرًّا مِن بطْنِهِ، حسْبُ ابنِ آدَمَ ثَلاثُ أكَلَاتٍ يُقِمْنَ صُلْبَه، فإنْ كان لا مَحالةَ، فثُلُثٌ طَعامٌ، وثلُثٌ شَرابٌ، وثُلُثٌ لنَفَسِه.",
+  "rawi": "المقدام بن معدي كرب",
+  "rulings": [
+   {
+    "muhaddith": "الحاكم",
+    "source": "المستدرك على الصحيحين",
+    "ref": "8159",
+    "ruling_text": "صحيح الإسناد",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [
+   {
+    "muhaddith": "الترمذي",
+    "source": "سنن الترمذي",
+    "ref": "8159"
+   },
+   {
+    "muhaddith": "ابن ماجه",
+    "source": "سنن ابن ماجه",
+    "ref": "2380"
+   }
+  ],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/IRW3RRG3",
+  "common_translations": {
+   "en": [
+    "No human ever filled a vessel worse than his stomach"
+   ],
+   "bn": [
+    "মানুষ পেটের চেয়ে নিকৃষ্ট কোনো পাত্র ভরেনি"
+   ],
+   "ur": [
+    "آدمی نے پیٹ سے بدتر کوئی برتن نہیں بھرا"
+   ]
+  },
+  "topic": "آداب الطعام",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-035",
+  "text_ar": "نِعمَتانِ مَغبونٌ فيهما كَثيرٌ مِنَ النَّاسِ: الصِّحَّةُ والفَراغُ.",
+  "rawi": "عبدالله بن عباس",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "6412",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/Pj2o0Vff",
+  "common_translations": {
+   "en": [
+    "Two blessings many people lose out on: health and free time"
+   ],
+   "bn": [
+    "দুটি নেয়ামতে বহু মানুষ ক্ষতিগ্রস্ত: সুস্থতা ও অবসর"
+   ],
+   "ur": [
+    "دو نعمتوں میں بہت سے لوگ خسارے میں ہیں: صحت اور فراغت"
+   ]
+  },
+  "topic": "اغتنام الوقت",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-036",
+  "text_ar": "اغتَنِم خمسًا قبلَ خمسٍ : شبابَك قبلَ هَرَمِك، وصِحَّتَك قبلَ سقَمِك، وغناكَ قبلَ فقرِك، وفراغَك قبلَ شُغلِك، وحياتَك قبلَ موتِكَ",
+  "rawi": "عمرو بن ميمون",
+  "rulings": [
+   {
+    "muhaddith": "ابن حجر العسقلاني",
+    "source": "هداية الرواة",
+    "ref": "5/9",
+    "ruling_text": "مرسل",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [
+   {
+    "muhaddith": "البيهقي",
+    "source": "شعب الإيمان",
+    "ref": "10250"
+   },
+   {
+    "muhaddith": "ابن أبي شيبة",
+    "source": "المصنف",
+    "ref": "35460"
+   }
+  ],
+  "derived_status": "HADITH_WEAK",
+  "url": "https://dorar.net/h/boxOpWxX",
+  "common_translations": {
+   "en": [
+    "Take advantage of five before five: youth before old age, health before sickness, wealth before poverty, free time before busyness, life before death"
+   ],
+   "bn": [
+    "পাঁচটি বিষয়কে পাঁচটির আগে গনীমত মনে করো: যৌবন বার্ধক্যের আগে, সুস্থতা অসুস্থতার আগে, সচ্ছলতা দারিদ্র্যের আগে, অবসর ব্যস্ততার আগে, জীবন মৃত্যুর আগে"
+   ],
+   "ur": [
+    "پانچ چیزوں کو پانچ سے پہلے غنیمت جانو: جوانی کو بڑھاپے سے پہلے، صحت کو بیماری سے پہلے، مالداری کو تنگ دستی سے پہلے، فراغت کو مشغولیت سے پہلے، زندگی کو موت سے پہلے"
+   ]
+  },
+  "topic": "اغتنام الوقت",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-037",
+  "text_ar": "سَدِّدوا وقارِبوا، واعلَموا أن لَن يُدخِلَ أحَدَكُم عَمَلُه الجَنَّةَ، وأنَّ أحَبَّ الأعمالِ إلى اللهِ أدوَمُها وإن قَلَّ.",
+  "rawi": "عائشة أم المؤمنين",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "6464",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "2818",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/Sbgu4t05",
+  "common_translations": {
+   "en": [
+    "The most beloved deeds to Allah are the most consistent, even if small"
+   ],
+   "bn": [
+    "আল্লাহর কাছে সবচেয়ে প্রিয় আমল সেটি যা নিয়মিত করা হয়, যদিও তা কম হয়"
+   ],
+   "ur": [
+    "اللہ کے نزدیک سب سے پسندیدہ عمل وہ ہے جو ہمیشہ کیا جائے چاہے تھوڑا ہو"
+   ]
+  },
+  "topic": "العمل الصالح",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-038",
+  "text_ar": "المؤمنُ القويُّ خيرٌ وأحبُّ إلى اللهِ من المؤمنِ الضعيفِ وفي كلٍ خيرٌ",
+  "rawi": "[أبو هريرة]",
+  "rulings": [
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "2664",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/pfnprX8z",
+  "common_translations": {
+   "en": [
+    "The strong believer is better and more beloved to Allah than the weak believer"
+   ],
+   "bn": [
+    "শক্তিশালী মুমিন দুর্বল মুমিনের চেয়ে উত্তম এবং আল্লাহর কাছে অধিক প্রিয়"
+   ],
+   "ur": [
+    "طاقتور مومن کمزور مومن سے بہتر اور اللہ کو زیادہ پسند ہے"
+   ]
+  },
+  "topic": "القوة",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-039",
+  "text_ar": "أنَّ رَجُلًا قال للنَّبيِّ صلَّى اللهُ عليه وسلَّم: أوصِني، قال: لا تَغضَبْ. فرَدَّدَ مِرارًا، قال: لا تَغضَبْ.",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "6116",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/YsUk7RDs",
+  "common_translations": {
+   "en": [
+    "Do not get angry"
+   ],
+   "bn": [
+    "রাগ করো না"
+   ],
+   "ur": [
+    "غصہ نہ کرو"
+   ]
+  },
+  "topic": "الغضب",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-040",
+  "text_ar": "ليس الشَّديدُ بالصُّرَعةِ، إنَّما الشَّديدُ الذي يَملِكُ نَفسَه عِندَ الغَضَبِ.",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "6114",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "2609",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/SllC88XC",
+  "common_translations": {
+   "en": [
+    "The strong one is not the one who overpowers others, but the one who controls himself when angry"
+   ],
+   "bn": [
+    "শক্তিশালী সে নয় যে কুস্তিতে জেতে, বরং সে যে রাগের সময় নিজেকে নিয়ন্ত্রণ করে"
+   ],
+   "ur": [
+    "طاقتور وہ نہیں جو کشتی میں پچھاڑ دے بلکہ وہ ہے جو غصے کے وقت اپنے آپ پر قابو رکھے"
+   ]
+  },
+  "topic": "الغضب",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-041",
+  "text_ar": "إنَّ من أحبِّكم إليَّ أحسنُكم أخلاقًا",
+  "rawi": "عبدالله بن عمرو",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "3759",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "2321",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/UYQwa2RV",
+  "common_translations": {
+   "en": [
+    "Among those dearest to me are those with the best character"
+   ],
+   "bn": [
+    "তোমাদের মধ্যে আমার কাছে সবচেয়ে প্রিয় সে যার চরিত্র সর্বোত্তম"
+   ],
+   "ur": [
+    "تم میں مجھے سب سے زیادہ محبوب وہ ہے جس کے اخلاق سب سے اچھے ہوں"
+   ]
+  },
+  "topic": "حسن الخلق",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-042",
+  "text_ar": "\"ما مِن شَيءٍ أثقلُ في ميزانِ المؤمِنِ يومَ القيامةِ من حُسنِ الخُلُقِ، وإنَّ اللهَ يُبغِضُ الفاحِشَ البَذيءَ \".",
+  "rawi": "أبو الدرداء",
+  "rulings": [
+   {
+    "muhaddith": "الترمذي",
+    "source": "سنن الترمذي",
+    "ref": "2002",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "ابن حبان",
+    "source": "صحيحه",
+    "ref": "5693",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/Uov2yRjL",
+  "common_translations": {
+   "en": [
+    "Nothing is heavier on the believer's scale on the Day of Resurrection than good character"
+   ],
+   "bn": [
+    "কিয়ামতের দিন মুমিনের মিযানে উত্তম চরিত্রের চেয়ে ভারী কিছু নেই"
+   ],
+   "ur": [
+    "قیامت کے دن مومن کے میزان میں حسن اخلاق سے بھاری کوئی چیز نہیں"
+   ]
+  },
+  "topic": "حسن الخلق",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-043",
+  "text_ar": "إنَّما بُعِثتُ لأُتَمِّمَ صالِحَ الأخلاقِ",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "أحمد",
+    "source": "مسند أحمد",
+    "ref": "8952",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "الحاكم",
+    "source": "المستدرك",
+    "ref": "4221",
+    "ruling_text": "صحيح",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [
+   {
+    "muhaddith": "البيهقي",
+    "source": "السنن",
+    "ref": "21301"
+   }
+  ],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/WHucbzc3",
+  "common_translations": {
+   "en": [
+    "I was only sent to perfect good character"
+   ],
+   "bn": [
+    "আমি কেবল উত্তম চরিত্রকে পূর্ণতা দিতে প্রেরিত হয়েছি"
+   ],
+   "ur": [
+    "مجھے صرف اچھے اخلاق کی تکمیل کے لیے بھیجا گیا ہے"
+   ]
+  },
+  "topic": "حسن الخلق",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-044",
+  "text_ar": "أكملُ المؤمنين إيمانًا أحسنُهم خُلقًا. وخيارُكم خيارُكم لنسائهم",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "الترمذي",
+    "source": "سنن الترمذي",
+    "ref": "1162",
+    "ruling_text": "حسن صحيح",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "ابن حبان",
+    "source": "صحيح ابن حبان",
+    "ref": "479",
+    "ruling_text": "أخرجه في صحيحه",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "الحاكم",
+    "source": "المستدرك على الصحيحين",
+    "ref": "1",
+    "ruling_text": "أخرجه في صحيحه",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/XKssBaPT",
+  "common_translations": {
+   "en": [
+    "The believers with the most complete faith are those with the best character"
+   ],
+   "bn": [
+    "পূর্ণ ঈমানদার মুমিন সেই যার চরিত্র সবচেয়ে সুন্দর"
+   ],
+   "ur": [
+    "کامل ایمان والے مومن وہ ہیں جن کے اخلاق سب سے اچھے ہیں"
+   ]
+  },
+  "topic": "حسن الخلق",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-045",
+  "text_ar": "آيةُ المُنافِقِ ثَلاثٌ: إذا حَدَّثَ كَذَبَ، وإذا وعَدَ أخلَفَ، وإذا اؤتُمِنَ خانَ.",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "33",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "59",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/oKBHqVCn",
+  "common_translations": {
+   "en": [
+    "The signs of a hypocrite are three: when he speaks he lies, when he promises he breaks it, when trusted he betrays"
+   ],
+   "bn": [
+    "মুনাফিকের আলামত তিনটি: কথা বললে মিথ্যা বলে, ওয়াদা করলে ভঙ্গ করে, আমানত রাখলে খেয়ানত করে"
+   ],
+   "ur": [
+    "منافق کی تین نشانیاں ہیں: بات کرے تو جھوٹ بولے، وعدہ کرے تو خلاف ورزی کرے، امانت دی جائے تو خیانت کرے"
+   ]
+  },
+  "topic": "النفاق",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-046",
+  "text_ar": "إيَّاكُم والظَّنَّ؛ فإنَّ الظَّنَّ أكذَبُ الحَديثِ، ولا تَحَسَّسوا، ولا تَجَسَّسوا، ولا تَباغَضوا، ولا تَدابَروا، وكونوا عِبادَ اللهِ إخوانًا.",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "البخاري",
+    "source": "صحيح البخاري",
+    "ref": "6724",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   },
+   {
+    "muhaddith": "مسلم",
+    "source": "صحيح مسلم",
+    "ref": "2563",
+    "ruling_text": "[صحيح]",
+    "category": "ثابت"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_AUTHENTIC",
+  "url": "https://dorar.net/h/UayzS5j6",
+  "common_translations": {
+   "en": [
+    "Beware of suspicion, for suspicion is the most false of speech"
+   ],
+   "bn": [
+    "ধারণা থেকে বেঁচে থাকো, কারণ ধারণা সবচেয়ে বড় মিথ্যা কথা"
+   ],
+   "ur": [
+    "بدگمانی سے بچو کیونکہ بدگمانی سب سے جھوٹی بات ہے"
+   ]
+  },
+  "topic": "سوء الظن",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-047",
+  "text_ar": "صومُوا تَصِحُّوا.",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "العقيلي",
+    "source": "الضعفاء الكبير",
+    "ref": "1992-02-01 00:00:00",
+    "ruling_text": "ضعيف",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "الألباني",
+    "source": "السلسلة الضعيفة",
+    "ref": "253",
+    "ruling_text": "ضعيف",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "العراقي",
+    "source": "تخريج الإحياء للعراقي",
+    "ref": "3/108",
+    "ruling_text": "إسناده ضعيف",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_WEAK",
+  "url": "https://dorar.net/h/QIOpMjdd",
+  "common_translations": {
+   "en": [
+    "Keep fast and be healthy."
+   ],
+   "bn": [
+    "তোমরা সাওম পালন কর সুস্থ থাকবে।"
+   ],
+   "ur": [
+    "روزہ رکھو، صحت مند رہو گے"
+   ]
+  },
+  "topic": "الصيام؛ الصحة",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-048",
+  "text_ar": "نومُ الصائمِ عبادةٌ، وصَمْتُه تسبيحٌ، وعملُه مُضاعَفٌ ودعاؤُه مُستَجابٌ، وذنبُه مغفورٌ",
+  "rawi": "عبدالله بن أبي أوفى",
+  "rulings": [
+   {
+    "muhaddith": "الألباني",
+    "source": "ضعيف الجامع",
+    "ref": "5972",
+    "ruling_text": "ضعيف",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "البيهقي",
+    "source": "شعب الإيمان",
+    "ref": "3/1437",
+    "ruling_text": "[فيه] معروف بن حسان ضعيف وسليمان بن عمرو النخعي أضعف منه",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "الصنعاني",
+    "source": "التنوير شرح الجامع الصغير",
+    "ref": "10/515",
+    "ruling_text": "قال مخرجه عقيبه: معروف بن حبان يعني أحد رجاله ضعيف وسليمان بن عمرو النخعي أضعف منه انتهى. وقال العراقي: سليمان النخعي أحد الكذابين انتهى، وله طرق خالية عن الكذب",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_WEAK",
+  "url": "https://dorar.net/h/3V9FisUz",
+  "common_translations": {
+   "en": [
+    "The sleep of the fasting person is worship."
+   ],
+   "bn": [
+    "রোজাদারের ঘুম হল ইবাদত"
+   ],
+   "ur": [
+    "روزہ دار کی نیند عبادت ہے"
+   ]
+  },
+  "topic": "فضل الصيام؛ النوم؛ مضاعفة الأعمال",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-049",
+  "text_ar": "كانَ إذا أفطرَ قالَ : اللَّهمَّ لَكَ صُمتُ، وعلَى رزقِكَ أفطَرتُ",
+  "rawi": "معاذ بن زهرة",
+  "rulings": [
+   {
+    "muhaddith": "الألباني",
+    "source": "ضعيف الجامع",
+    "ref": "4349",
+    "ruling_text": "ضعيف",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "ابن حجر العسقلاني",
+    "source": "الفتوحات الربانية",
+    "ref": "4/341",
+    "ruling_text": "مرسل",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "السيوطي",
+    "source": "الجامع الصغير",
+    "ref": "6570",
+    "ruling_text": "مرسل",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_WEAK",
+  "url": "https://dorar.net/h/XtypXS4w?osoul=1",
+  "common_translations": {
+   "en": [
+    "O Allah, for Thee I have fasted, and with Thy provision I have broken my fast."
+   ],
+   "bn": [
+    "হে আল্লাহ আপনার জন্য সাওম রেখেছি এবং আপনার রিযিক দ্বারা ইফতার করছি।"
+   ],
+   "ur": [
+    "اے اللہ! میں نے تیری ہی خاطر روزہ رکھا اور تیرے ہی رزق سے افطار کیا"
+   ]
+  },
+  "topic": "الدعاء عند الإفطار",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-050",
+  "text_ar": "حبُّ الوطنِ منَ الإيمانِ",
+  "rawi": "",
+  "rulings": [
+   {
+    "muhaddith": "الألباني",
+    "source": "السلسلة الضعيفة",
+    "ref": "36",
+    "ruling_text": "موضوع",
+    "category": "موضوع أو لا أصل له"
+   },
+   {
+    "muhaddith": "الصغاني",
+    "source": "الموضوعات للصغاني",
+    "ref": "53",
+    "ruling_text": "موضوع",
+    "category": "موضوع أو لا أصل له"
+   },
+   {
+    "muhaddith": "محمد بن محمد الغزي",
+    "source": "إتقان ما يحسن",
+    "ref": "1/222",
+    "ruling_text": "ليس حديثا",
+    "category": "موضوع أو لا أصل له"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_FABRICATED",
+  "url": "https://dorar.net/h/v9O0rvM9",
+  "common_translations": {
+   "en": [
+    "Love of one’s country is from īmān."
+   ],
+   "bn": [
+    "দেশপ্রেম ঈমানের অঙ্গ"
+   ],
+   "ur": [
+    "وطن سے محبت ایمان کا جز ہے"
+   ]
+  },
+  "topic": "حب الوطن؛ الإيمان",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-051",
+  "text_ar": "اطلُبُوا العِلْمَ ولَوْ بالصينِ، فإِنَّ طلَبَ العِلْمِ فريضةٌ على كُلِّ مسلِمٍ.",
+  "rawi": "أنس بن مالك",
+  "rulings": [
+   {
+    "muhaddith": "الألباني",
+    "source": "ضعيف الجامع",
+    "ref": "906",
+    "ruling_text": "موضوع",
+    "category": "موضوع أو لا أصل له"
+   },
+   {
+    "muhaddith": "ابن الجوزي",
+    "source": "الموضوعات لابن الجوزي",
+    "ref": "1/347",
+    "ruling_text": "لا يصح",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "السيوطي",
+    "source": "الجامع الصغير",
+    "ref": "1105",
+    "ruling_text": "ضعيف",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_MULTIPLE_RULINGS",
+  "url": "https://dorar.net/h/LIGIYd6d",
+  "common_translations": {
+   "en": [
+    "Seek knowledge even as far as China."
+   ],
+   "bn": [
+    "চীন দেশে গিয়ে হলেও তোমরা জ্ঞান অন্বেষণ কর"
+   ],
+   "ur": [
+    "علم حاصل کرو اگرچہ تمہیں چین جانا پڑے"
+   ]
+  },
+  "topic": "طلب العلم؛ السفر لطلبه",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-052",
+  "text_ar": "اختلافُ أمَّتي رَحمةٌ",
+  "rawi": "",
+  "rulings": [
+   {
+    "muhaddith": "الألباني",
+    "source": "ضعيف الجامع",
+    "ref": "230",
+    "ruling_text": "موضوع",
+    "category": "موضوع أو لا أصل له"
+   },
+   {
+    "muhaddith": "السيوطي",
+    "source": "تدريب الراوي",
+    "ref": "2/167",
+    "ruling_text": "ضعيف",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "ابن عثيمين",
+    "source": "شرح البخاري لابن عثيمين",
+    "ref": "8/256",
+    "ruling_text": "لا يصح",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_MULTIPLE_RULINGS",
+  "url": "https://dorar.net/h/Rf4rusmc",
+  "common_translations": {
+   "en": [
+    "The differences of my Umma are a source of mercy."
+   ],
+   "bn": [
+    "আমার উম্মতের ইখতিলাফ রহমত"
+   ],
+   "ur": [
+    "میری امت کا اختلاف رحمت ہے"
+   ]
+  },
+  "topic": "اختلاف الأمة",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-053",
+  "text_ar": "من لم تَنْهَهُ صلاتُه عن الفحشاءِ والمنكَرِ فلا صلاةَ له",
+  "rawi": "عمران بن الحصين",
+  "rulings": [
+   {
+    "muhaddith": "الألباني",
+    "source": "السلسلة الضعيفة",
+    "ref": "985",
+    "ruling_text": "منكر",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_WEAK",
+  "url": "https://dorar.net/h/mnFynKQ1",
+  "common_translations": {
+   "en": [],
+   "bn": [
+    "যে ব্যক্তির সালাত তাকে নির্লজ্জ কাজ হতে বিরত করে না، তার সালাতই হয় না۔"
+   ],
+   "ur": [
+    "جس کی نماز اسے بےحیائی اور برائی سے نہیں روکتی اس کی کوئی نماز نہیں۔"
+   ]
+  },
+  "topic": "الصلاة؛ النهي عن الفحشاء والمنكر",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ },
+ {
+  "id": "h-054",
+  "text_ar": "الصائمُ في عبادةٍ، ما لم يَغْتَبْ",
+  "rawi": "أبو هريرة",
+  "rulings": [
+   {
+    "muhaddith": "الألباني",
+    "source": "السلسلة الضعيفة",
+    "ref": "1829",
+    "ruling_text": "منكر",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "ابن عدي",
+    "source": "الكامل في الضعفاء",
+    "ref": "6/496",
+    "ruling_text": "منكر",
+    "category": "ضعيف"
+   },
+   {
+    "muhaddith": "ابن القيسراني",
+    "source": "ذخيرة الحفاظ",
+    "ref": "3/1543",
+    "ruling_text": "منكر",
+    "category": "ضعيف"
+   }
+  ],
+  "takhrij": [],
+  "derived_status": "HADITH_WEAK",
+  "url": "https://dorar.net/h/85bWahLp",
+  "common_translations": {
+   "en": [
+    "A fasting person is in a state of worship as long as he does not backbite."
+   ],
+   "bn": [],
+   "ur": [
+    "روزہ دار عبادت میں ہوتا ہے جب تک غیبت نہ کرے۔"
+   ]
+  },
+  "topic": "الصيام؛ الغيبة",
+  "added_by": "مدقق شرعي",
+  "notes": ""
+ }
+]
