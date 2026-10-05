@@ -20,7 +20,9 @@
 .ruling { padding: 12px 0; border-bottom: 1px solid #e5e8df; }
 .source-link { display: inline-block; margin-block: 12px; color: #174f40; text-decoration: underline; }
 details summary { cursor: pointer; padding-block: 10px; }
-.file-input input { max-width: 200px; font-size: 11px; }
+.file-input { position: relative; overflow: hidden; cursor: pointer; }
+.file-input input { position: absolute; width: 1px; height: 1px; opacity: 0; inset-inline-start: 0; bottom: 0; }
+.file-input:focus-within { outline: 3px solid #b48946; outline-offset: 4px; }
 .catalog-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 16px; margin-block: 15px; }
 .catalog-grid .result-card { margin: 0; }
 .card-preview { max-width: 480px; margin: 25px auto; padding: 35px; background: #174f40; color: #fff9e8; border-radius: 12px; }
