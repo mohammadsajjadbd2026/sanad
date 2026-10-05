@@ -32,6 +32,11 @@ test("quoted scripture is isolated from surrounding prose", async () => {
   const report = await verify(`مقدمة للتجربة «${q.text}» ثم تعليق.`);
   assert.equal(report.findings.length, 1); assert.equal(report.findings[0].status, "QURAN_VERIFIED");
 });
+test("complete source text embedded in prose is detected without attribution invention", async () => {
+  const q = (await getCandidates()).find(r => r.kind === "quran" && r.ref === "3:8" && r.language === "ar")!;
+  const result = await verify(`قال في كلمة للتجربة: ${q.text}، وفي ذلك تذكير.`);
+  assert.ok(result.findings.some(f => f.status === "QURAN_VERIFIED" && f.ref === "3:8"));
+});
 test("API rejects origin mismatch, invalid JSON and oversized streaming bodies", async () => {
   await assert.rejects(readJson(new Request("https://example.test/api/verify", { method: "POST", headers: { origin: "https://evil.test", "content-type": "application/json" }, body: "{}" })), (e: unknown) => e instanceof RequestError && e.status === 403);
   await assert.rejects(readJson(new Request("https://example.test/api/verify", { method: "POST", headers: { "content-type": "application/json" }, body: "invalid" })));

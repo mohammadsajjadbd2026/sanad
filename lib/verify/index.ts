@@ -25,6 +25,17 @@ export async function verify(text: string): Promise<Report> {
     }
     // A sentence surrounding an extracted quotation is context, not a second quotation.
     if (extract(quote).some(part => part !== quote)) continue;
+    // Complete source wording embedded in ordinary prose is still an exact excerpt.
+    // Require substantial length; short common formulas have many ambiguous refs.
+    const contained = rows.filter(r => r.comparison.length >= 30 && key.includes(r.comparison));
+    const unique = new Map(contained.map(r => [`${r.kind}:${r.ref}`, r]));
+    if (unique.size > 0 && unique.size <= 4) {
+      for (const [id, row] of unique) if (!seen.has(id)) {
+        findings.push({ ...decide(row, row.text, true), reason: "ورد النص الكامل للمصدر داخل فقرة المدخل بمطابقة محافظة؛ راجع سياق استعماله." });
+        seen.add(id);
+      }
+      continue;
+    }
     const search = normalizeForSearch(quote);
     const near = rows.filter(r => r.kind === "quran" && r.language === "ar" && r.search.split(" ").length >= 4)
       .map(row => ({ row, score: tokenSimilarity(search, row.search) })).sort((a, b) => b.score - a.score)[0];
