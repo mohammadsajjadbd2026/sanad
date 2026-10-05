@@ -12,7 +12,11 @@ for (const path of ["/", ...stations.map(s => `/${s.slug}`), "/about"]) {
     assert.match(html, /<html[^>]*lang="ar"[^>]*dir="rtl"/);
     assert.ok(html.includes(disclaimer));
     assert.match(html, /id="main-content"/);
-    if (path !== "/" && path !== "/about") assert.ok(html.includes("قيد البناء"));
+    const station = stations.find(s => path === `/${s.slug}`);
+    if (station) {
+      assert.ok(html.includes(station.name));
+      assert.ok(!html.includes("هذه المحطة قيد البناء"));
+    }
     assert.ok(!html.includes("GEMINI_API_KEY"));
   });
 }
