@@ -11,7 +11,7 @@ export default function Home() {
           <span className="eyebrow"><span className="small-line" /> رفيق المعرّف بالإسلام</span>
           <h1 id="hero-title">لكلّ كلمة أثر.<br />ولكلّ نقلٍ <span className="hero-emphasis">سَنَد.</span></h1>
           <p className="hero-description">من أول سؤال إلى آخر مشاركة.<br />رحلة تجمع الاستعداد، والتحقّق، وصناعة المحتوى،<br className="desktop-break" /> لتصل رسالتك واضحةً، ويظلّ مصدرها حاضرًا.</p>
-          <div className="hero-actions"><Link href="/draft" className="button button-primary">تعرّف على المدقّق <ArrowLeft size={18} aria-hidden="true" /></Link><a href="#journey" className="button button-text">اكتشف الرحلة <ArrowLeft size={17} aria-hidden="true" /></a></div>
+          <div className="hero-actions"><Link href="/draft" className="button button-primary">افتح المدقّق <ArrowLeft size={18} aria-hidden="true" /></Link><a href="#journey" className="button button-text">اكتشف الرحلة <ArrowLeft size={17} aria-hidden="true" /></a></div>
           <div className="hero-note"><ShieldCheck size={17} aria-hidden="true" /><span>النموذج يقترح، والمصدر وحده يحكم.</span></div>
         </div>
         <div className="hero-art" aria-label="رسم يوضح انتقال النص إلى المصدر ثم إلى تقرير التحقق">
@@ -42,7 +42,7 @@ export default function Home() {
             <h3>{station.name}</h3><p>{station.description}</p><span className="station-bottom"><span>{station.deliverable}</span><ArrowLeft size={17} aria-hidden="true" /></span>
           </Link>
         ))}</div>
-        <p className="stage-note"><span className="dot" /> النسخة قيد البناء. المحطات تعرض وظائفها المخطّطة؛ التحقّق والتوليد غير مفعّلين بعد.</p>
+        <p className="stage-note"><span className="dot" /> المطابقة المحلية والبطاقات والميدان متاحة. التقييم المعتمد والتخصيص التوليدي يحتاجان مراجعة البيانات وضبط الخدمة.</p>
       </section>
 
       <section className="method-banner" aria-labelledby="method-title"><div className="method-icon"><ShieldCheck size={32} strokeWidth={1.4} aria-hidden="true" /></div><div><h2 id="method-title">الثقة تبدأ بمعرفة الحدود.</h2><p>لا نستقلّ بفتوى، ولا نحكم على حديث من عندنا. ننقل من المصادر، ونصرّح بما لم نعثر عليه.</p></div><Link href="/about">كيف يعمل سَنَد؟ <ArrowLeft size={17} aria-hidden="true" /></Link></section>

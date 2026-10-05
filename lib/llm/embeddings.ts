@@ -3,6 +3,7 @@ import { GoogleGenAI } from "@google/genai";
 import { z } from "zod";
 import { embeddingInput, type EmbeddingConfig } from "./embedding-config";
 import { normalizeVector } from "../embeddings/math";
+import { reserveDevelopmentCost } from "./budget";
 
 export class EmbeddingProviderError extends Error {
   constructor(public readonly status: number | null, public readonly retryable: boolean) {
@@ -17,6 +18,7 @@ export function createEmbedder(config: EmbeddingConfig, transport?: Pick<GoogleG
   return async (text: string, mode: "document" | "query" = "document"): Promise<number[]> => {
     const input = embeddingInput(config.model, text, mode);
     let response;
+    if (!transport) await reserveDevelopmentCost((Buffer.byteLength(input.contents, "utf8") + 100) * 0.20 / 1_000_000);
     try {
       // Exactly one text per request: Embedding 2 otherwise aggregates unrelated inputs.
       response = await models.embedContent({ model: config.model, contents: input.contents, config: { ...input.config, outputDimensionality: config.dimensions } });

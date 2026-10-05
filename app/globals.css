@@ -1,5 +1,64 @@
 @import "tailwindcss";
 
+.work-page { padding-block: 35px 70px; }
+.work-page > .eyebrow { display: block; margin-top: 25px; }
+.work-page h1 { font-size: clamp(26px, 4vw, 42px); margin: 12px 0; }
+.work-panel, .result-card { margin-block: 22px; padding: 26px; border: 1px solid #dce2d7; border-radius: 14px; background: #fffefa; }
+.work-panel label { display: block; margin-block: 10px; font-weight: 500; }
+.work-panel textarea, .work-panel input:not([type=file]), .work-panel select { width: 100%; border: 1px solid #bdcbbd; padding: 12px; border-radius: 8px; font: inherit; background: #fff; color: #243a32; }
+.work-toolbar, .example-buttons { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-block: 16px; }
+.work-toolbar { justify-content: space-between; }
+.work-page .button { border: 1px solid #cfd8cd; }
+.work-page button:disabled { opacity: .5; cursor: not-allowed; transform: none; }
+.notice { padding: 15px; background: #f0f2e8; border-inline-start: 3px solid #a3b282; border-radius: 5px; margin-block: 12px; }
+.result-card { border-inline-start: 5px solid #a79773; overflow-wrap: anywhere; }
+.status-QURAN_VERIFIED, .status-HADITH_AUTHENTIC { border-inline-start-color: #247357; }
+.status-HADITH_FABRICATED, .status-HADITH_WEAK, .status-QURAN_WORDING_DIFFERS { border-inline-start-color: #a45135; }
+.status-label { display: inline-block; background: #eef0e7; padding: 5px 12px; border-radius: 20px; margin-bottom: 12px; }
+.result-card h3 { font-size: 12px; color: #6b786c; margin-top: 10px; }
+.result-card blockquote { margin: 12px 0; padding: 15px; background: #f7f7f0; white-space: pre-wrap; font-size: 18px; line-height: 2; }
+.ruling { padding: 12px 0; border-bottom: 1px solid #e5e8df; }
+.source-link { display: inline-block; margin-block: 12px; color: #174f40; text-decoration: underline; }
+details summary { cursor: pointer; padding-block: 10px; }
+.file-input input { max-width: 200px; font-size: 11px; }
+.catalog-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 16px; margin-block: 15px; }
+.catalog-grid .result-card { margin: 0; }
+.card-preview { max-width: 480px; margin: 25px auto; padding: 35px; background: #174f40; color: #fff9e8; border-radius: 12px; }
+.card-preview blockquote { font-size: 24px; line-height: 2; margin: 25px 0; }
+.card-preview small { display: block; border-top: 1px solid #ffffff40; padding-top: 15px; }
+@media (max-width: 600px) { .work-panel, .result-card { padding: 16px; } .work-toolbar { align-items: stretch; } .work-toolbar .button { flex-grow: 1; } }
+@media print { header, footer, .disclaimer, .work-panel, .back-link, button { display: none !important; } .container { width: 100% !important; } details { display: block; } .result-card { break-inside: avoid; box-shadow: none; } }
+
+.work-page { padding-block: 35px 70px; }
+.work-page > .eyebrow { display: block; margin-top: 25px; }
+.work-page h1 { font-size: clamp(26px, 4vw, 42px); margin: 12px 0; }
+.work-panel, .result-card { margin-block: 22px; padding: 26px; border: 1px solid #dce2d7; border-radius: 14px; background: #fffefa; }
+.work-panel label { display: block; margin-block: 10px; font-weight: 500; }
+.work-panel textarea, .work-panel input:not([type=file]), .work-panel select { width: 100%; border: 1px solid #bdcbbd; padding: 12px; border-radius: 8px; font: inherit; background: #fff; color: #243a32; }
+.work-panel textarea:focus-visible, .work-panel input:focus-visible, .work-panel select:focus-visible { outline: 3px solid #b48946; }
+.work-toolbar, .example-buttons { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-block: 16px; }
+.work-toolbar { justify-content: space-between; }
+.work-page .button { border: 1px solid #cfd8cd; }
+.work-page button:disabled { opacity: .5; cursor: not-allowed; transform: none; }
+.notice { padding: 15px; background: #f0f2e8; border-inline-start: 3px solid #a3b282; border-radius: 5px; margin-block: 12px; }
+.result-card { border-inline-start: 5px solid #a79773; overflow-wrap: anywhere; }
+.status-QURAN_VERIFIED, .status-HADITH_AUTHENTIC { border-inline-start-color: #247357; }
+.status-HADITH_FABRICATED, .status-HADITH_WEAK, .status-QURAN_WORDING_DIFFERS { border-inline-start-color: #a45135; }
+.status-label { display: inline-block; background: #eef0e7; padding: 5px 12px; border-radius: 20px; margin-bottom: 12px; }
+.result-card h3 { font-size: 12px; color: #6b786c; margin-top: 10px; }
+.result-card blockquote { margin: 12px 0; padding: 15px; background: #f7f7f0; white-space: pre-wrap; font-size: 18px; line-height: 2; }
+.ruling { padding: 12px 0; border-bottom: 1px solid #e5e8df; }
+.source-link { display: inline-block; margin-block: 12px; color: #174f40; text-decoration: underline; }
+details summary { cursor: pointer; padding-block: 10px; }
+.file-input input { max-width: 200px; font-size: 11px; }
+.catalog-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 16px; }
+.catalog-grid .result-card { margin: 0; }
+.card-preview { max-width: 480px; margin: 25px auto; padding: 35px; background: #174f40; color: #fff9e8; border-radius: 12px; }
+.card-preview blockquote { font-size: 24px; line-height: 2; margin: 25px 0; }
+.card-preview small { display: block; border-top: 1px solid #ffffff40; padding-top: 15px; }
+@media (max-width: 600px) { .work-panel, .result-card { padding: 16px; } .work-toolbar { align-items: stretch; } .work-toolbar .button { flex-grow: 1; } }
+@media print { header, footer, .disclaimer, .work-panel, .back-link, button { display: none !important; } .container { width: 100% !important; } details { display: block; } .result-card { break-inside: avoid; box-shadow: none; } }
+
 @theme inline {
   --font-sans: "Readex Pro Variable", Tahoma, Arial, sans-serif;
   --color-brand: #174f40;

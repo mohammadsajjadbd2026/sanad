@@ -1,0 +1,18 @@
+{
+  "split": "dev",
+  "runs": 3,
+  "selected": 50,
+  "approved": 0,
+  "skipped": 50,
+  "baseline": false,
+  "accuracy": null,
+  "perLanguage": {},
+  "perCategory": {},
+  "abstentionPrecision": null,
+  "abstentionRecall": null,
+  "consistency": null,
+  "latencyMs": null,
+  "failures": 0,
+  "worst": [],
+  "outcomes": []
+}

@@ -1,0 +1,37 @@
+import "server-only";
+import { extract, isPersonalFatwa } from "./extract";
+import { getCandidates, tokenSimilarity } from "./retrieve";
+import { normalizeForComparison, normalizeForSearch } from "./normalize";
+import { decide } from "./decide";
+import type { Finding, Report } from "./types";
+
+export async function verify(text: string): Promise<Report> {
+  if (!text.trim() || text.length > 12000) throw new Error("أدخل نصًا بين حرف واحد و12000 حرف.");
+  const started = performance.now();
+  const findings: Finding[] = [];
+  const finish = (): Report => ({ findings, mode: "local-conservative", elapsedMs: Math.round(performance.now() - started), limitation: "مطابقة محلية محافظة، وليست فتوى ولا تقييمًا للسياق. البحث الدلالي الكامل غير مفعّل. عدم العثور لا يعني أن النص موضوع." });
+  if (isPersonalFatwa(text)) { findings.push({ status: "REFER_TO_SCHOLAR", quote: text, reason: "يبدو أن الطلب يتصل بفتوى شخصية؛ اعرض تفاصيله على عالم موثوق. لا تصدر المنصة حكمًا في الواقعة." }); return finish(); }
+  const rows = await getCandidates();
+  const seen = new Set<string>();
+  for (const quote of extract(text)) {
+    const key = normalizeForComparison(quote);
+    const matches = rows.filter(r => r.comparison === key);
+    const refs = new Set(matches.map(r => `${r.kind}:${r.ref}`));
+    if (refs.size > 1) { findings.push({ quote, status: "NOT_FOUND", reason: "العبارة تطابق أكثر من مرجع؛ أضف رقم السورة والآية أو نصًا أطول لتجنب نسبة غير مؤكدة." }); continue; }
+    if (matches.length) {
+      const candidate = matches[0], id = `${candidate.kind}:${candidate.ref}`;
+      if (!seen.has(id)) { findings.push(decide(candidate, quote, true)); seen.add(id); }
+      continue;
+    }
+    // A sentence surrounding an extracted quotation is context, not a second quotation.
+    if (extract(quote).some(part => part !== quote)) continue;
+    const search = normalizeForSearch(quote);
+    const near = rows.filter(r => r.kind === "quran" && r.language === "ar" && r.search.split(" ").length >= 4)
+      .map(row => ({ row, score: tokenSimilarity(search, row.search) })).sort((a, b) => b.score - a.score)[0];
+    if (near && near.score >= 0.85 && search.split(" ").length >= 4) {
+      const id = `quran:${near.row.ref}`;
+      if (!seen.has(id)) { findings.push(decide(near.row, quote, false)); seen.add(id); }
+    } else findings.push({ quote, status: /[\u0600-\u06ff\u0980-\u09ffa-z]/iu.test(quote) ? "NOT_FOUND" : "OUT_OF_SCOPE", reason: "لم تتحقق مطابقة في المصادر المحلية. لا يعني ذلك أن النص باطل أو موضوع؛ راجع مصدرًا متخصصًا." });
+  }
+  return finish();
+}
