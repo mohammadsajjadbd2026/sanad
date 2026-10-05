@@ -1,0 +1,39 @@
+{
+  "profile": "e211a44f8cb21ac96819340ae25baa75c970d4ee6bd0e28e53920984f78dcbcc",
+  "total": 6315,
+  "completed": 20,
+  "created": 20,
+  "reused": 0,
+  "complete": false,
+  "model": "gemini-embedding-2",
+  "dimensions": 768,
+  "mode": "sample",
+  "counts": {
+    "quran": 7,
+    "hadith": 7,
+    "bayyinat": 6
+  },
+  "selectedIds": [
+    "quran:1:1",
+    "hadith:h-001",
+    "bayyinat:b-001",
+    "quran:1:2",
+    "hadith:h-002",
+    "bayyinat:b-002",
+    "quran:1:3",
+    "hadith:h-003",
+    "bayyinat:b-003",
+    "quran:1:4",
+    "hadith:h-004",
+    "bayyinat:b-004",
+    "quran:1:5",
+    "hadith:h-005",
+    "bayyinat:b-005",
+    "quran:1:6",
+    "hadith:h-006",
+    "bayyinat:b-006",
+    "quran:1:7",
+    "hadith:h-007"
+  ],
+  "note": "فحص فهرسة المصادر، وليس قياس دقة المدقّق. النصوص المرجعية لم تعدّل."
+}
