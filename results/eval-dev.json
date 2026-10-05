@@ -2,17 +2,2485 @@
   "split": "dev",
   "runs": 3,
   "selected": 50,
-  "approved": 0,
-  "skipped": 50,
+  "approved": 47,
+  "skipped": 3,
   "baseline": false,
-  "accuracy": null,
-  "perLanguage": {},
-  "perCategory": {},
-  "abstentionPrecision": null,
-  "abstentionRecall": null,
-  "consistency": null,
-  "latencyMs": null,
+  "accuracy": 0.9148936170212766,
+  "perLanguage": {
+    "ar": {
+      "n": 78,
+      "accuracy": 1
+    },
+    "en": {
+      "n": 24,
+      "accuracy": 1
+    },
+    "bn": {
+      "n": 18,
+      "accuracy": 0.6666666666666666
+    },
+    "ur": {
+      "n": 21,
+      "accuracy": 0.7142857142857143
+    }
+  },
+  "perCategory": {
+    "C1 آيات عربية صحيحة": {
+      "n": 18,
+      "accuracy": 1
+    },
+    "C2 آيات محرفة اللفظ": {
+      "n": 15,
+      "accuracy": 1
+    },
+    "C3 آيات مترجمة": {
+      "n": 18,
+      "accuracy": 0.3333333333333333
+    },
+    "C4 أحاديث ثابتة بالعربية": {
+      "n": 18,
+      "accuracy": 1
+    },
+    "C5 أحاديث ثابتة مترجمة": {
+      "n": 18,
+      "accuracy": 1
+    },
+    "C6 أحاديث ضعيفة": {
+      "n": 12,
+      "accuracy": 1
+    },
+    "C7 أحاديث موضوعة": {
+      "n": 12,
+      "accuracy": 1
+    },
+    "C8 أقوال منسوبة لا أصل لها في الفهرس": {
+      "n": 30,
+      "accuracy": 1
+    }
+  },
+  "abstentionPrecision": 0.7142857142857143,
+  "abstentionRecall": 1,
+  "consistency": 1,
+  "latencyMs": 82.22785886524814,
   "failures": 0,
-  "worst": [],
-  "outcomes": []
+  "worst": [
+    {
+      "id": "t-053",
+      "run": 0,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 348.1067000000003,
+      "failed": false
+    },
+    {
+      "id": "t-053",
+      "run": 1,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 187.78300000000036,
+      "failed": false
+    },
+    {
+      "id": "t-053",
+      "run": 2,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 249.14940000000024,
+      "failed": false
+    },
+    {
+      "id": "t-057",
+      "run": 0,
+      "lang": "ur",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 120.17280000000028,
+      "failed": false
+    },
+    {
+      "id": "t-057",
+      "run": 1,
+      "lang": "ur",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 96.59180000000015,
+      "failed": false
+    },
+    {
+      "id": "t-057",
+      "run": 2,
+      "lang": "ur",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 101.6889999999994,
+      "failed": false
+    },
+    {
+      "id": "t-065",
+      "run": 0,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 99.48160000000007,
+      "failed": false
+    },
+    {
+      "id": "t-065",
+      "run": 1,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 97.90290000000005,
+      "failed": false
+    },
+    {
+      "id": "t-065",
+      "run": 2,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 118.14670000000024,
+      "failed": false
+    },
+    {
+      "id": "t-069",
+      "run": 0,
+      "lang": "ur",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 387.4267999999993,
+      "failed": false
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "t-004",
+      "run": 0,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "6:147"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 1662.4605000000001,
+      "failed": false
+    },
+    {
+      "id": "t-004",
+      "run": 1,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "6:147"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 7.098399999999856,
+      "failed": false
+    },
+    {
+      "id": "t-004",
+      "run": 2,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "6:147"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 7.674700000000485,
+      "failed": false
+    },
+    {
+      "id": "t-008",
+      "run": 0,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "21:107"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 10.80410000000029,
+      "failed": false
+    },
+    {
+      "id": "t-008",
+      "run": 1,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "21:107"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 11.459200000000237,
+      "failed": false
+    },
+    {
+      "id": "t-008",
+      "run": 2,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "21:107"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 12.816499999999905,
+      "failed": false
+    },
+    {
+      "id": "t-012",
+      "run": 0,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "40:7"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 17.067299999999705,
+      "failed": false
+    },
+    {
+      "id": "t-012",
+      "run": 1,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "40:7"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 16.968699999999444,
+      "failed": false
+    },
+    {
+      "id": "t-012",
+      "run": 2,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "40:7"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 16.144800000000032,
+      "failed": false
+    },
+    {
+      "id": "t-016",
+      "run": 0,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "49:13"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 6.777800000000752,
+      "failed": false
+    },
+    {
+      "id": "t-016",
+      "run": 1,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "49:13"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 12.426800000000185,
+      "failed": false
+    },
+    {
+      "id": "t-016",
+      "run": 2,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "49:13"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 7.801099999999678,
+      "failed": false
+    },
+    {
+      "id": "t-020",
+      "run": 0,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "3:185"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 12.225999999999658,
+      "failed": false
+    },
+    {
+      "id": "t-020",
+      "run": 1,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "3:185"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 7.760599999999613,
+      "failed": false
+    },
+    {
+      "id": "t-020",
+      "run": 2,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "3:185"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 12.835799999999836,
+      "failed": false
+    },
+    {
+      "id": "t-024",
+      "run": 0,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "17:23"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 12.39759999999933,
+      "failed": false
+    },
+    {
+      "id": "t-024",
+      "run": 1,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "17:23"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 10.760199999999713,
+      "failed": false
+    },
+    {
+      "id": "t-024",
+      "run": 2,
+      "lang": "ar",
+      "category": "C1 آيات عربية صحيحة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "17:23"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 9.820300000000316,
+      "failed": false
+    },
+    {
+      "id": "t-029",
+      "run": 0,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "17:87"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 143.4377999999997,
+      "failed": false
+    },
+    {
+      "id": "t-029",
+      "run": 1,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "17:87"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 149.71670000000086,
+      "failed": false
+    },
+    {
+      "id": "t-029",
+      "run": 2,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "17:87"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 101.36570000000029,
+      "failed": false
+    },
+    {
+      "id": "t-033",
+      "run": 0,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "21:84"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 144.1168000000007,
+      "failed": false
+    },
+    {
+      "id": "t-033",
+      "run": 1,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "21:84"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 120.16899999999987,
+      "failed": false
+    },
+    {
+      "id": "t-033",
+      "run": 2,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "21:84"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 136.1794,
+      "failed": false
+    },
+    {
+      "id": "t-037",
+      "run": 0,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "36:44"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 127.08209999999963,
+      "failed": false
+    },
+    {
+      "id": "t-037",
+      "run": 1,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "36:44"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 177.90419999999995,
+      "failed": false
+    },
+    {
+      "id": "t-037",
+      "run": 2,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "36:44"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 215.14169999999922,
+      "failed": false
+    },
+    {
+      "id": "t-041",
+      "run": 0,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "28:46"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 156.42669999999998,
+      "failed": false
+    },
+    {
+      "id": "t-041",
+      "run": 1,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "28:46"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 151.92010000000028,
+      "failed": false
+    },
+    {
+      "id": "t-041",
+      "run": 2,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "28:46"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 184.98629999999957,
+      "failed": false
+    },
+    {
+      "id": "t-045",
+      "run": 0,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "18:10"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 157.4393,
+      "failed": false
+    },
+    {
+      "id": "t-045",
+      "run": 1,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "18:10"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 186.73919999999998,
+      "failed": false
+    },
+    {
+      "id": "t-045",
+      "run": 2,
+      "lang": "ar",
+      "category": "C2 آيات محرفة اللفظ",
+      "correct": true,
+      "statuses": [
+        "QURAN_WORDING_DIFFERS"
+      ],
+      "refs": [
+        "18:10"
+      ],
+      "expected": "QURAN_WORDING_DIFFERS",
+      "latencyMs": 142.40790000000015,
+      "failed": false
+    },
+    {
+      "id": "t-049",
+      "run": 0,
+      "lang": "en",
+      "category": "C3 آيات مترجمة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "2:186"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 5.7224999999998545,
+      "failed": false
+    },
+    {
+      "id": "t-049",
+      "run": 1,
+      "lang": "en",
+      "category": "C3 آيات مترجمة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "2:186"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 3.6867999999994936,
+      "failed": false
+    },
+    {
+      "id": "t-049",
+      "run": 2,
+      "lang": "en",
+      "category": "C3 آيات مترجمة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "2:186"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 3.0646999999999025,
+      "failed": false
+    },
+    {
+      "id": "t-053",
+      "run": 0,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 348.1067000000003,
+      "failed": false
+    },
+    {
+      "id": "t-053",
+      "run": 1,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 187.78300000000036,
+      "failed": false
+    },
+    {
+      "id": "t-053",
+      "run": 2,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 249.14940000000024,
+      "failed": false
+    },
+    {
+      "id": "t-057",
+      "run": 0,
+      "lang": "ur",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 120.17280000000028,
+      "failed": false
+    },
+    {
+      "id": "t-057",
+      "run": 1,
+      "lang": "ur",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 96.59180000000015,
+      "failed": false
+    },
+    {
+      "id": "t-057",
+      "run": 2,
+      "lang": "ur",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 101.6889999999994,
+      "failed": false
+    },
+    {
+      "id": "t-061",
+      "run": 0,
+      "lang": "en",
+      "category": "C3 آيات مترجمة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "3:159"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 5.255400000000009,
+      "failed": false
+    },
+    {
+      "id": "t-061",
+      "run": 1,
+      "lang": "en",
+      "category": "C3 آيات مترجمة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "3:159"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 4.334799999999632,
+      "failed": false
+    },
+    {
+      "id": "t-061",
+      "run": 2,
+      "lang": "en",
+      "category": "C3 آيات مترجمة",
+      "correct": true,
+      "statuses": [
+        "QURAN_VERIFIED"
+      ],
+      "refs": [
+        "3:159"
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 4.126900000000205,
+      "failed": false
+    },
+    {
+      "id": "t-065",
+      "run": 0,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 99.48160000000007,
+      "failed": false
+    },
+    {
+      "id": "t-065",
+      "run": 1,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 97.90290000000005,
+      "failed": false
+    },
+    {
+      "id": "t-065",
+      "run": 2,
+      "lang": "bn",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 118.14670000000024,
+      "failed": false
+    },
+    {
+      "id": "t-069",
+      "run": 0,
+      "lang": "ur",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 387.4267999999993,
+      "failed": false
+    },
+    {
+      "id": "t-069",
+      "run": 1,
+      "lang": "ur",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 459.750399999999,
+      "failed": false
+    },
+    {
+      "id": "t-069",
+      "run": 2,
+      "lang": "ur",
+      "category": "C3 آيات مترجمة",
+      "correct": false,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "QURAN_VERIFIED",
+      "latencyMs": 552.8806000000004,
+      "failed": false
+    },
+    {
+      "id": "t-071",
+      "run": 0,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-001"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.3531000000002678,
+      "failed": false
+    },
+    {
+      "id": "t-071",
+      "run": 1,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-001"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.332800000000134,
+      "failed": false
+    },
+    {
+      "id": "t-071",
+      "run": 2,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-001"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 4.0623000000014144,
+      "failed": false
+    },
+    {
+      "id": "t-075",
+      "run": 0,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-006"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 4.635599999999613,
+      "failed": false
+    },
+    {
+      "id": "t-075",
+      "run": 1,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-006"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 5.807699999999386,
+      "failed": false
+    },
+    {
+      "id": "t-075",
+      "run": 2,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-006"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 6.593899999999849,
+      "failed": false
+    },
+    {
+      "id": "t-079",
+      "run": 0,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-010"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 5.456300000001647,
+      "failed": false
+    },
+    {
+      "id": "t-079",
+      "run": 1,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-010"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.764900000000125,
+      "failed": false
+    },
+    {
+      "id": "t-079",
+      "run": 2,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-010"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.0693999999984953,
+      "failed": false
+    },
+    {
+      "id": "t-083",
+      "run": 0,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-014"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.6347999999998137,
+      "failed": false
+    },
+    {
+      "id": "t-083",
+      "run": 1,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-014"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.1753999999982625,
+      "failed": false
+    },
+    {
+      "id": "t-083",
+      "run": 2,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-014"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 2.9554000000007363,
+      "failed": false
+    },
+    {
+      "id": "t-087",
+      "run": 0,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-018"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 4.610199999999168,
+      "failed": false
+    },
+    {
+      "id": "t-087",
+      "run": 1,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-018"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 5.06289999999899,
+      "failed": false
+    },
+    {
+      "id": "t-087",
+      "run": 2,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-018"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 4.795899999999165,
+      "failed": false
+    },
+    {
+      "id": "t-091",
+      "run": 0,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-022"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 5.346300000001065,
+      "failed": false
+    },
+    {
+      "id": "t-091",
+      "run": 1,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-022"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.180399999999281,
+      "failed": false
+    },
+    {
+      "id": "t-091",
+      "run": 2,
+      "lang": "ar",
+      "category": "C4 أحاديث ثابتة بالعربية",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-022"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 4.817399999999907,
+      "failed": false
+    },
+    {
+      "id": "t-096",
+      "run": 0,
+      "lang": "en",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-017"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 4.8739000000005035,
+      "failed": false
+    },
+    {
+      "id": "t-096",
+      "run": 1,
+      "lang": "en",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-017"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.1705000000001746,
+      "failed": false
+    },
+    {
+      "id": "t-096",
+      "run": 2,
+      "lang": "en",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-017"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.0976000000009662,
+      "failed": false
+    },
+    {
+      "id": "t-100",
+      "run": 0,
+      "lang": "bn",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-021"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 7.7718000000004395,
+      "failed": false
+    },
+    {
+      "id": "t-100",
+      "run": 1,
+      "lang": "bn",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-021"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 9.262300000000323,
+      "failed": false
+    },
+    {
+      "id": "t-100",
+      "run": 2,
+      "lang": "bn",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-021"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 7.240900000000693,
+      "failed": false
+    },
+    {
+      "id": "t-104",
+      "run": 0,
+      "lang": "ur",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-026"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 4.42489999999998,
+      "failed": false
+    },
+    {
+      "id": "t-104",
+      "run": 1,
+      "lang": "ur",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-026"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 4.892499999999927,
+      "failed": false
+    },
+    {
+      "id": "t-104",
+      "run": 2,
+      "lang": "ur",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-026"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 4.933199999999488,
+      "failed": false
+    },
+    {
+      "id": "t-108",
+      "run": 0,
+      "lang": "en",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-033"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 5.335499999999229,
+      "failed": false
+    },
+    {
+      "id": "t-108",
+      "run": 1,
+      "lang": "en",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-033"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 5.252900000001318,
+      "failed": false
+    },
+    {
+      "id": "t-108",
+      "run": 2,
+      "lang": "en",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-033"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.882499999999709,
+      "failed": false
+    },
+    {
+      "id": "t-112",
+      "run": 0,
+      "lang": "bn",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-038"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 5.384400000000824,
+      "failed": false
+    },
+    {
+      "id": "t-112",
+      "run": 1,
+      "lang": "bn",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-038"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 5.597200000000157,
+      "failed": false
+    },
+    {
+      "id": "t-112",
+      "run": 2,
+      "lang": "bn",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-038"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 5.917599999998856,
+      "failed": false
+    },
+    {
+      "id": "t-116",
+      "run": 0,
+      "lang": "ur",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-042"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.621000000001004,
+      "failed": false
+    },
+    {
+      "id": "t-116",
+      "run": 1,
+      "lang": "ur",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-042"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.5993000000016764,
+      "failed": false
+    },
+    {
+      "id": "t-116",
+      "run": 2,
+      "lang": "ur",
+      "category": "C5 أحاديث ثابتة مترجمة",
+      "correct": true,
+      "statuses": [
+        "HADITH_AUTHENTIC"
+      ],
+      "refs": [
+        "h-042"
+      ],
+      "expected": "HADITH_AUTHENTIC",
+      "latencyMs": 3.272799999998824,
+      "failed": false
+    },
+    {
+      "id": "t-121",
+      "run": 0,
+      "lang": "ar",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-027"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 2.9439000000002125,
+      "failed": false
+    },
+    {
+      "id": "t-121",
+      "run": 1,
+      "lang": "ar",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-027"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 4.173999999999069,
+      "failed": false
+    },
+    {
+      "id": "t-121",
+      "run": 2,
+      "lang": "ar",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-027"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 4.5635999999994965,
+      "failed": false
+    },
+    {
+      "id": "t-125",
+      "run": 0,
+      "lang": "ar",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-049"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 5.008699999998498,
+      "failed": false
+    },
+    {
+      "id": "t-125",
+      "run": 1,
+      "lang": "ar",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-049"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 4.732899999999063,
+      "failed": false
+    },
+    {
+      "id": "t-125",
+      "run": 2,
+      "lang": "ar",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-049"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 5.544800000001487,
+      "failed": false
+    },
+    {
+      "id": "t-129",
+      "run": 0,
+      "lang": "bn",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-029"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 7.190199999999095,
+      "failed": false
+    },
+    {
+      "id": "t-129",
+      "run": 1,
+      "lang": "bn",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-029"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 5.639100000000326,
+      "failed": false
+    },
+    {
+      "id": "t-129",
+      "run": 2,
+      "lang": "bn",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-029"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 8.297199999999066,
+      "failed": false
+    },
+    {
+      "id": "t-133",
+      "run": 0,
+      "lang": "ur",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-053"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 6.622499999999491,
+      "failed": false
+    },
+    {
+      "id": "t-133",
+      "run": 1,
+      "lang": "ur",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-053"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 5.40480000000025,
+      "failed": false
+    },
+    {
+      "id": "t-133",
+      "run": 2,
+      "lang": "ur",
+      "category": "C6 أحاديث ضعيفة",
+      "correct": true,
+      "statuses": [
+        "HADITH_WEAK"
+      ],
+      "refs": [
+        "h-053"
+      ],
+      "expected": "HADITH_WEAK",
+      "latencyMs": 5.369699999999284,
+      "failed": false
+    },
+    {
+      "id": "t-135",
+      "run": 0,
+      "lang": "ar",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_FABRICATED"
+      ],
+      "refs": [
+        "h-050"
+      ],
+      "expected": "HADITH_FABRICATED",
+      "latencyMs": 4.883299999999508,
+      "failed": false
+    },
+    {
+      "id": "t-135",
+      "run": 1,
+      "lang": "ar",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_FABRICATED"
+      ],
+      "refs": [
+        "h-050"
+      ],
+      "expected": "HADITH_FABRICATED",
+      "latencyMs": 5.116500000000087,
+      "failed": false
+    },
+    {
+      "id": "t-135",
+      "run": 2,
+      "lang": "ar",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_FABRICATED"
+      ],
+      "refs": [
+        "h-050"
+      ],
+      "expected": "HADITH_FABRICATED",
+      "latencyMs": 4.906699999999546,
+      "failed": false
+    },
+    {
+      "id": "t-139",
+      "run": 0,
+      "lang": "ur",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_FABRICATED"
+      ],
+      "refs": [
+        "h-050"
+      ],
+      "expected": "HADITH_FABRICATED",
+      "latencyMs": 5.063000000000102,
+      "failed": false
+    },
+    {
+      "id": "t-139",
+      "run": 1,
+      "lang": "ur",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_FABRICATED"
+      ],
+      "refs": [
+        "h-050"
+      ],
+      "expected": "HADITH_FABRICATED",
+      "latencyMs": 4.840399999999136,
+      "failed": false
+    },
+    {
+      "id": "t-139",
+      "run": 2,
+      "lang": "ur",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_FABRICATED"
+      ],
+      "refs": [
+        "h-050"
+      ],
+      "expected": "HADITH_FABRICATED",
+      "latencyMs": 2.958199999999124,
+      "failed": false
+    },
+    {
+      "id": "t-143",
+      "run": 0,
+      "lang": "bn",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_MULTIPLE_RULINGS"
+      ],
+      "refs": [
+        "h-051"
+      ],
+      "expected": "HADITH_MULTIPLE_RULINGS",
+      "latencyMs": 4.21389999999883,
+      "failed": false
+    },
+    {
+      "id": "t-143",
+      "run": 1,
+      "lang": "bn",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_MULTIPLE_RULINGS"
+      ],
+      "refs": [
+        "h-051"
+      ],
+      "expected": "HADITH_MULTIPLE_RULINGS",
+      "latencyMs": 4.362600000000384,
+      "failed": false
+    },
+    {
+      "id": "t-143",
+      "run": 2,
+      "lang": "bn",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_MULTIPLE_RULINGS"
+      ],
+      "refs": [
+        "h-051"
+      ],
+      "expected": "HADITH_MULTIPLE_RULINGS",
+      "latencyMs": 4.465400000000955,
+      "failed": false
+    },
+    {
+      "id": "t-147",
+      "run": 0,
+      "lang": "en",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_MULTIPLE_RULINGS"
+      ],
+      "refs": [
+        "h-052"
+      ],
+      "expected": "HADITH_MULTIPLE_RULINGS",
+      "latencyMs": 5.114700000000084,
+      "failed": false
+    },
+    {
+      "id": "t-147",
+      "run": 1,
+      "lang": "en",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_MULTIPLE_RULINGS"
+      ],
+      "refs": [
+        "h-052"
+      ],
+      "expected": "HADITH_MULTIPLE_RULINGS",
+      "latencyMs": 5.2981999999992695,
+      "failed": false
+    },
+    {
+      "id": "t-147",
+      "run": 2,
+      "lang": "en",
+      "category": "C7 أحاديث موضوعة",
+      "correct": true,
+      "statuses": [
+        "HADITH_MULTIPLE_RULINGS"
+      ],
+      "refs": [
+        "h-052"
+      ],
+      "expected": "HADITH_MULTIPLE_RULINGS",
+      "latencyMs": 5.459000000000742,
+      "failed": false
+    },
+    {
+      "id": "t-148",
+      "run": 0,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 97.83799999999974,
+      "failed": false
+    },
+    {
+      "id": "t-148",
+      "run": 1,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 81.55240000000049,
+      "failed": false
+    },
+    {
+      "id": "t-148",
+      "run": 2,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 75.57960000000094,
+      "failed": false
+    },
+    {
+      "id": "t-152",
+      "run": 0,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 126.33239999999932,
+      "failed": false
+    },
+    {
+      "id": "t-152",
+      "run": 1,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 130.64019999999982,
+      "failed": false
+    },
+    {
+      "id": "t-152",
+      "run": 2,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 141.1275999999998,
+      "failed": false
+    },
+    {
+      "id": "t-156",
+      "run": 0,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 75.84009999999944,
+      "failed": false
+    },
+    {
+      "id": "t-156",
+      "run": 1,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 69.98220000000038,
+      "failed": false
+    },
+    {
+      "id": "t-156",
+      "run": 2,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 73.03179999999884,
+      "failed": false
+    },
+    {
+      "id": "t-160",
+      "run": 0,
+      "lang": "en",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 150.82240000000093,
+      "failed": false
+    },
+    {
+      "id": "t-160",
+      "run": 1,
+      "lang": "en",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 174.93009999999958,
+      "failed": false
+    },
+    {
+      "id": "t-160",
+      "run": 2,
+      "lang": "en",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 147.97760000000017,
+      "failed": false
+    },
+    {
+      "id": "t-164",
+      "run": 0,
+      "lang": "en",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 113.78509999999915,
+      "failed": false
+    },
+    {
+      "id": "t-164",
+      "run": 1,
+      "lang": "en",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 99.55839999999989,
+      "failed": false
+    },
+    {
+      "id": "t-164",
+      "run": 2,
+      "lang": "en",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 83.31029999999919,
+      "failed": false
+    },
+    {
+      "id": "t-168",
+      "run": 0,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 87.61319999999978,
+      "failed": false
+    },
+    {
+      "id": "t-168",
+      "run": 1,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 116.26820000000043,
+      "failed": false
+    },
+    {
+      "id": "t-168",
+      "run": 2,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 155.90480000000025,
+      "failed": false
+    },
+    {
+      "id": "t-172",
+      "run": 0,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 99.13180000000102,
+      "failed": false
+    },
+    {
+      "id": "t-172",
+      "run": 1,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 139.4256000000005,
+      "failed": false
+    },
+    {
+      "id": "t-172",
+      "run": 2,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 147.5018,
+      "failed": false
+    },
+    {
+      "id": "t-176",
+      "run": 0,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 298.32050000000163,
+      "failed": false
+    },
+    {
+      "id": "t-176",
+      "run": 1,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 212.96909999999843,
+      "failed": false
+    },
+    {
+      "id": "t-176",
+      "run": 2,
+      "lang": "ar",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 158.14120000000003,
+      "failed": false
+    },
+    {
+      "id": "t-180",
+      "run": 0,
+      "lang": "en",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 180.61599999999999,
+      "failed": false
+    },
+    {
+      "id": "t-180",
+      "run": 1,
+      "lang": "en",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 280.323699999999,
+      "failed": false
+    },
+    {
+      "id": "t-180",
+      "run": 2,
+      "lang": "en",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 177.48119999999835,
+      "failed": false
+    },
+    {
+      "id": "t-184",
+      "run": 0,
+      "lang": "ur",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 148.60009999999966,
+      "failed": false
+    },
+    {
+      "id": "t-184",
+      "run": 1,
+      "lang": "ur",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 166.29789999999957,
+      "failed": false
+    },
+    {
+      "id": "t-184",
+      "run": 2,
+      "lang": "ur",
+      "category": "C8 أقوال منسوبة لا أصل لها في الفهرس",
+      "correct": true,
+      "statuses": [
+        "NOT_FOUND"
+      ],
+      "refs": [
+        ""
+      ],
+      "expected": "NOT_FOUND",
+      "latencyMs": 296.2598999999991,
+      "failed": false
+    }
+  ]
 }

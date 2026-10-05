@@ -9,7 +9,7 @@
   "text": "من أعظم ما يطمئن به القلب أن الله تعالى قال في كتابه: ﴿رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ﴾، فهذه الآية تفتح باب الأمل لكل من ضاقت به الدنيا.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "3:8",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -22,7 +22,7 @@
   "text": "يقول الله عز وجل: فبما رحمة من الله لنت لهم ولو كنت فظا غليظ القلب لانفضوا من حولك فاعف عنهم واستغفر لهم وشاورهم في الأمر فإذا عزمت فتوكل على الله إن الله يحب المتوكلين. وفي هذا تذكير لنا بأن الرحمة أصل في تعامل المسلم مع الناس.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "3:159",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -35,7 +35,7 @@
   "text": "أخي الكريم، تأمل قوله تعالى: «فَأَمَّا الَّذِينَ آمَنُوا بِاللَّهِ وَاعْتَصَمُوا بِهِ فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَاطًا مُسْتَقِيمًا»، ثم انظر كيف ينبغي أن يكون حالنا مع إخواننا في هذا المجتمع.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "4:175",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -48,7 +48,7 @@
   "text": "في درس الأمس بالمركز تحدثنا عن قول الله سبحانه: ﴿فإن كذبوك فقل ربكم ذو رحمة واسعة ولا يرد بأسه عن القوم المجرمين﴾، وكيف نشرح معناها لمن لا يعرف العربية.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "6:147",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -58,10 +58,10 @@
   "lang": "ar",
   "kind": "quran",
   "target_module": "verifier",
-  "text": "قال الله تعالى: قَالَ وَمَنْ يَقْنَطُ مِنْ رَحْمَةِ رَبِّهِ إِلَّا الضَّالُّونَ صدق الله العظيم. فلنجعل هذه الآية شعارنا في دعوتنا هذا الأسبوع.",
+  "text": "قال الله تعالى: قَالَ وَمَنْ يَقْنَطُ مِنْ رَحْمَةِ رَبِّهِ إِلَّا الضَّالُّونَ صدق الله العظيم.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "15:56",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -74,7 +74,7 @@
   "text": "منشور اليوم: ﴿وإما تعرضن عنهم ابتغاء رحمة من ربك ترجوها فقل لهم قولا ميسورا﴾ — شاركها مع من تحب ولا تنس الدعاء لنا.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "17:28",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -100,7 +100,7 @@
   "text": "من أعظم ما يطمئن به القلب أن الله تعالى قال في كتابه: ﴿وما أرسلناك إلا رحمة للعالمين﴾، فهذه الآية تفتح باب الأمل لكل من ضاقت به الدنيا.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "21:107",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -139,7 +139,7 @@
   "text": "في درس الأمس بالمركز تحدثنا عن قول الله سبحانه: ﴿قُلْ يَاعِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ﴾، وكيف نشرح معناها لمن لا يعرف العربية.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "39:53",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -149,10 +149,10 @@
   "lang": "ar",
   "kind": "quran",
   "target_module": "verifier",
-  "text": "قال الله تعالى: الذين يحملون العرش ومن حوله يسبحون بحمد ربهم ويؤمنون به ويستغفرون للذين آمنوا ربنا وسعت كل شيء رحمة وعلما فاغفر للذين تابوا واتبعوا سبيلك وقهم عذاب الجحيم صدق الله العظيم. فلنجعل هذه الآية شعارنا في دعوتنا هذا الأسبوع.",
+  "text": "قال الله تعالى: الذين يحملون العرش ومن حوله يسبحون بحمد ربهم ويؤمنون به ويستغفرون للذين آمنوا ربنا وسعت كل شيء رحمة وعلما فاغفر للذين تابوا واتبعوا سبيلك وقهم عذاب الجحيم صدق الله العظيم.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "40:7",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -165,7 +165,7 @@
   "text": "منشور اليوم: ﴿رَحْمَةً مِنْ رَبِّكَ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ﴾ — شاركها مع من تحب ولا تنس الدعاء لنا.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "44:6",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -178,7 +178,7 @@
   "text": "ومن الأدلة على ذلك قوله تعالى: وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعۡوَةَ ٱلدَّاعِ إِذَا دَعَانِۖ فَلۡيَسۡتَجِيبُواْ لِي وَلۡيُؤۡمِنُواْ بِي لَعَلَّهُمۡ يَرۡشُدُونَ، وهي آية جامعة يحسن بالداعية أن يحفظها.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "2:186",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -191,7 +191,7 @@
   "text": "من أعظم ما يطمئن به القلب أن الله تعالى قال في كتابه: ﴿ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ﴾، فهذه الآية تفتح باب الأمل لكل من ضاقت به الدنيا.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "13:28",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -201,10 +201,10 @@
   "lang": "ar",
   "kind": "quran",
   "target_module": "verifier",
-  "text": "يقول الله عز وجل: يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقۡنَٰكُم مِّن ذَكَرٖ وَأُنثَىٰ وَجَعَلۡنَٰكُمۡ شُعُوبٗا وَقَبَآئِلَ لِتَعَارَفُوٓاْۚ إِنَّ أَكۡرَمَكُمۡ عِندَ ٱللَّهِ أَتۡقَىٰكُمۡۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٞ. وفي هذا تذكير لنا بأن الرحمة أصل في تعامل المسلم مع الناس.",
+  "text": "يقول الله عز وجل: يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقۡنَٰكُم مِّن ذَكَرٖ وَأُنثَىٰ وَجَعَلۡنَٰكُمۡ شُعُوبٗا وَقَبَآئِلَ لِتَعَارَفُوٓاْۚ إِنَّ أَكۡرَمَكُمۡ عِندَ ٱللَّهِ أَتۡقَىٰكُمۡۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٞ. تبيّن الآية أن معيار الكرامة عند الله هو التقوى.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "49:13",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -217,7 +217,7 @@
   "text": "أخي الكريم، تأمل قوله تعالى: «ٱدۡعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلۡحِكۡمَةِ وَٱلۡمَوۡعِظَةِ ٱلۡحَسَنَةِۖ وَجَٰدِلۡهُم بِٱلَّتِي هِيَ أَحۡسَنُۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ»، ثم انظر كيف ينبغي أن يكون حالنا مع إخواننا في هذا المجتمع.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "16:125",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -256,7 +256,7 @@
   "text": "منشور اليوم: ﴿كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَإِنَّمَا تُوَفَّوۡنَ أُجُورَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۖ فَمَن زُحۡزِحَ عَنِ ٱلنَّارِ وَأُدۡخِلَ ٱلۡجَنَّةَ فَقَدۡ فَازَۗ وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَآ إِلَّا مَتَٰعُ ٱلۡغُرُورِ﴾ — شاركها مع من تحب ولا تنس الدعاء لنا.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "3:185",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -292,10 +292,10 @@
   "lang": "ar",
   "kind": "quran",
   "target_module": "verifier",
-  "text": "يقول الله عز وجل: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُتِبَ عَلَيۡكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبۡلِكُمۡ لَعَلَّكُمۡ تَتَّقُونَ. وفي هذا تذكير لنا بأن الرحمة أصل في تعامل المسلم مع الناس.",
+  "text": "يقول الله عز وجل: يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُتِبَ عَلَيۡكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبۡلِكُمۡ لَعَلَّكُمۡ تَتَّقُونَ. وفي هذه الآية دلالة على فرضية الصيام على المسلمين، وكما تدل على مقصد أكبر للصيام.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "2:183",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -305,10 +305,10 @@
   "lang": "ar",
   "kind": "quran",
   "target_module": "verifier",
-  "text": "أخي الكريم، تأمل قوله تعالى: «۞وَقَضَىٰ رَبُّكَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَٰنًاۚ إِمَّا يَبۡلُغَنَّ عِندَكَ ٱلۡكِبَرَ أَحَدُهُمَآ أَوۡ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفّٖ وَلَا تَنۡهَرۡهُمَا وَقُل لَّهُمَا قَوۡلٗا كَرِيمٗا»، ثم انظر كيف ينبغي أن يكون حالنا مع إخواننا في هذا المجتمع.",
+  "text": "أخي الكريم، تأمل قوله تعالى: «۞وَقَضَىٰ رَبُّكَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَٰنًاۚ إِمَّا يَبۡلُغَنَّ عِندَكَ ٱلۡكِبَرَ أَحَدُهُمَآ أَوۡ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفّٖ وَلَا تَنۡهَرۡهُمَا وَقُل لَّهُمَا قَوۡلٗا كَرِيمٗا»، ثم انظر كيف ينبغي أن يكون تعاملنا مع الوالدين.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "17:23",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -334,7 +334,7 @@
   "text": "في درس الأمس بالمركز تحدثنا عن قول الله سبحانه: ﴿وَأَمَّا الَّذِينَ ابْيَضَّتْ وُجُوهُهُمْ فَفِي رَحْمَةِ اللَّهِ هُمْ فِيهَا مُخَلَّدُونَ﴾، وكيف نشرح معناها لمن لا يعرف العربية.",
   "expected_status": "QURAN_WORDING_DIFFERS",
   "expected_ref": "3:107",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المحرّف: «مخلدون» بدل «خالدون»"
  },
  {
@@ -373,7 +373,7 @@
   "text": "ومن الأدلة على ذلك قوله تعالى: إلا رحمة من ربك إن فضله كان عليك عظيما، وهي آية جامعة يحسن بالداعية أن يحفظها.",
   "expected_status": "QURAN_WORDING_DIFFERS",
   "expected_ref": "17:87",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المحرّف: «عظيما» بدل «كبيرا»"
  },
  {
@@ -386,7 +386,7 @@
   "text": "من أعظم ما يطمئن به القلب أن الله تعالى قال في كتابه: ﴿قُلْ لَوْ أَنْتُمْ تَمْلِكُونَ خَزَائِنَ رَحْمَةِ رَبِّي إِذًا لَأَمْسَكْتُمْ خَشْيَةَ الْإِنْفَاقِ وَكَانَ الْإِنْسَانُ كَفُورًا﴾، فهذه الآية تفتح باب الأمل لكل من ضاقت به الدنيا.",
   "expected_status": "QURAN_WORDING_DIFFERS",
   "expected_ref": "17:100",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المحرّف: «كفورا» بدل «قتورا»"
  },
  {
@@ -425,7 +425,7 @@
   "text": "في درس الأمس بالمركز تحدثنا عن قول الله سبحانه: ﴿فاستجبنا له فكشفنا ما به من ضر وآتيناه أهله ومثلهم معهم رحمة من عندنا وذكرى للمؤمنين﴾، وكيف نشرح معناها لمن لا يعرف العربية.",
   "expected_status": "QURAN_WORDING_DIFFERS",
   "expected_ref": "21:84",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المحرّف: «للمؤمنين» بدل «للعابدين»"
  },
  {
@@ -438,7 +438,7 @@
   "text": "قال الله تعالى: وَمَا كُنْتَ تَرْجُو أَنْ يُلْقَى إِلَيْكَ الْكِتَابُ إِلَّا رَحْمَةً مِنْ رَبِّكَ فَلَا تَكُونَنَّ نَصِيرًا لِلْكَافِرِينَ صدق الله العظيم. فلنجعل هذه الآية شعارنا في دعوتنا هذا الأسبوع.",
   "expected_status": "QURAN_WORDING_DIFFERS",
   "expected_ref": "28:86",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المحرّف: «نصيرا» بدل «ظهيرا»"
  },
  {
@@ -477,7 +477,7 @@
   "text": "من أعظم ما يطمئن به القلب أن الله تعالى قال في كتابه: ﴿إلا رحمة منا ومتاعا إلى أجل﴾، فهذه الآية تفتح باب الأمل لكل من ضاقت به الدنيا.",
   "expected_status": "QURAN_WORDING_DIFFERS",
   "expected_ref": "36:44",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المحرّف: «إلى أجل» بدل «إلى حين»"
  },
  {
@@ -503,7 +503,7 @@
   "text": "أخي الكريم، تأمل قوله تعالى: «ووهبنا له أهله ومثلهم معهم رحمة منا وذكرى للعالمين»، ثم انظر كيف ينبغي أن يكون حالنا مع إخواننا في هذا المجتمع.",
   "expected_status": "QURAN_WORDING_DIFFERS",
   "expected_ref": "38:43",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المحرّف: «للعالمين» بدل «لأولي الألباب»"
  },
  {
@@ -529,7 +529,7 @@
   "text": "قال الله تعالى: وما كنت بجانب الطور إذ نادينا ولكن رحمة من ربك لتنذر قوما ما أتاهم من نذير من قبلك لعلهم يهتدون صدق الله العظيم. فلنجعل هذه الآية شعارنا في دعوتنا هذا الأسبوع.",
   "expected_status": "QURAN_WORDING_DIFFERS",
   "expected_ref": "28:46",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المحرّف: «يهتدون» بدل «يتذكرون»"
  },
  {
@@ -568,7 +568,7 @@
   "text": "من أعظم ما يطمئن به القلب أن الله تعالى قال في كتابه: ﴿قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِنْ كُنْتُ عَلَى بَيِّنَةٍ مِنْ رَبِّي وَآتَانِي مِنْهُ رَحْمَةً فَمَنْ يَنْصُرُنِي مِنَ اللَّهِ إِنْ عَصَيْتُهُ فَمَا تَزِيدُونَنِي غَيْرَ خَسَارٍ﴾، فهذه الآية تفتح باب الأمل لكل من ضاقت به الدنيا.",
   "expected_status": "QURAN_WORDING_DIFFERS",
   "expected_ref": "11:63",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المحرّف: «خسار» بدل «تخسير»"
  },
  {
@@ -581,7 +581,7 @@
   "text": "يقول الله عز وجل: إذ أوى الفتية إلى الكهف فقالوا ربنا آتنا من لدنك رحمة وهيئ لنا من أمرنا خيرا. وفي هذا تذكير لنا بأن الرحمة أصل في تعامل المسلم مع الناس.",
   "expected_status": "QURAN_WORDING_DIFFERS",
   "expected_ref": "18:10",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المحرّف: «خيرا» بدل «رشدا»"
  },
  {
@@ -594,7 +594,7 @@
   "text": "Allah says in the Quran: \"And We have not sent you, [O Muhammad], except as a mercy to the worlds\" Let this verse be a reminder for all of us this week.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "21:107",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -607,7 +607,7 @@
   "text": "আল্লাহ তাআলা কুরআনে বলেছেন: \"বলুন, হে আমার বান্দাগণ যারা নিজেদের উপর যুলুম করেছ তোমরা আল্লাহর রহমত থেকে নিরাশ হয়ো না। নিশ্চয় আল্লাহ সমস্ত গোনাহ মাফ করেন। তিনি ক্ষমাশীল, পরম দয়ালু।\" এই আয়াতটি আমাদের সবার জন্য একটি বড় শিক্ষা।",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "39:53",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -620,7 +620,7 @@
   "text": "اللہ تعالیٰ قرآن مجید میں فرماتا ہے: \"میں نے جن اور انسانوں کو اِس کے سوا کسی کام کے لیے پیدا نہیں کیا ہے کہ وہ میری بندگی کریں\" یہ آیت ہم سب کے لیے بڑی نصیحت ہے۔",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "51:56",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -633,7 +633,7 @@
   "text": "As the Quran beautifully puts it: \"And when My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided\". Share this with a friend who needs hope today.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "2:186",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -685,7 +685,7 @@
   "text": "পবিত্র কুরআনে ইরশাদ হয়েছে, \"দ্বীনের ব্যাপারে কোন জবরদস্তি বা বাধ্য-বাধকতা নেই। নিঃসন্দেহে হেদায়াত গোমরাহী থেকে পৃথক হয়ে গেছে। এখন যারা গোমরাহকারী ‘তাগুত’দেরকে মানবে না এবং আল্লাহতে বিশ্বাস স্থাপন করবে, সে ধারণ করে নিয়েছে সুদৃঢ় হাতল যা ভাংবার নয়। আর আল্লাহ সবই শুনেন এবং জানেন।\"। তাই আমাদের সবসময় এ কথা মনে রাখা উচিত।",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "2:256",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -737,7 +737,7 @@
   "text": "اللہ تعالیٰ قرآن مجید میں فرماتا ہے: \"جو لوگ ہماری خاطر مجاہدہ کریں گے انہیں ہم اپنے راستے دکھائیں گے، اور یقیناً اللہ نیکو کاروں ہی کے ساتھ ہے\" یہ آیت ہم سب کے لیے بڑی نصیحت ہے۔",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "29:69",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -789,7 +789,7 @@
   "text": "One of my favourite verses: So by mercy from Allah, [O Muhammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allah. Indeed, Allah loves those who rely [upon Him]. This is the message of Islam to humanity.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "3:159",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -802,7 +802,7 @@
   "text": "পবিত্র কুরআনে ইরশাদ হয়েছে, \"এবং তাকে তার ধারণাতীত জায়গা থেকে রিযিক দেবেন। যে ব্যক্তি আল্লাহর উপর ভরসা করে তার জন্যে তিনিই যথেষ্ট। আল্লাহ তার কাজ পূর্ণ করবেন। আল্লাহ সবকিছুর জন্যে একটি পরিমাণ স্থির করে রেখেছেন।\"। তাই আমাদের সবসময় এ কথা মনে রাখা উচিত।",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "65:3",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -815,7 +815,7 @@
   "text": "قرآن کریم میں ارشاد ہے: \"زمین میں فساد برپا نہ کرو جبکہ اس کی اصلاح ہو چکی ہے اور خدا ہی کو پکارو خوف کے ساتھ اور طمع کے ساتھ، یقیناً اللہ کی رحمت نیک کردار لوگوں سے قریب ہے\"۔ ہمیں ہمیشہ یہ بات یاد رکھنی چاہیے۔",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "7:56",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -828,7 +828,7 @@
   "text": "Allah says in the Quran: \"Say, \"Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allah, Lord of the worlds\" Let this verse be a reminder for all of us this week.",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "6:162",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -841,7 +841,7 @@
   "text": "আল্লাহ তাআলা কুরআনে বলেছেন: \"আর তোমাদের মধ্যে এমন একটা দল থাকা উচিত যারা আহবান জানাবে সৎকর্মের প্রতি, নির্দেশ দেবে ভাল কাজের এবং বারণ করবে অন্যায় কাজ থেকে, আর তারাই হলো সফলকাম।\" এই আয়াতটি আমাদের সবার জন্য একটি বড় শিক্ষা।",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "3:104",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -893,7 +893,7 @@
   "text": "آج کی آیت: اللہ کسی متنفس پر اُس کی مقدرت سے بڑھ کر ذمہ داری کا بوجھ نہیں ڈالتا ہر شخص نے جو نیکی کمائی ہے، اس کا پھل اسی کے لیے ہے اور جو بدی سمیٹی ہے، اس کا وبال اسی پر ہے (ایمان لانے والو! تم یوں دعا کیا کرو) اے ہمارے رب! ہم سے بھول چوک میں جو قصور ہو جائیں، ان پر گرفت نہ کر مالک! ہم پر وہ بوجھ نہ ڈال، جو تو نے ہم سے پہلے لوگوں پر ڈالے تھے پروردگار! جس بار کو اٹھانے کی طاقت ہم میں نہیں ہے، وہ ہم پر نہ رکھ، ہمارے ساتھ نرمی کر، ہم سے در گزر فرما، ہم پر رحم کر، تو ہمارا مولیٰ ہے، کافروں کے مقابلے میں ہماری مدد کر — اسے اپنے دوستوں کے ساتھ شیئر کریں۔",
   "expected_status": "QURAN_VERIFIED",
   "expected_ref": "2:286",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -919,7 +919,7 @@
   "text": "قال رسول الله ﷺ: «إنما الأعمال بالنيات، وإنما لكل امرئ ما نوى، فمن كانت هجرته إلى دنيا يصيبها، أو إلى امرأة ينكحها، فهجرته إلى ما هاجر إليه». فما أحوجنا اليوم إلى العمل بهذا التوجيه النبوي.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-001",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -932,7 +932,7 @@
   "text": "عن النبي صلى الله عليه وسلم أنه قال: بني الإسلام على خمس: شهادة أن لا إله إلا الله وأن محمدا رسول الله، وإقام الصلاة، وإيتاء الزكاة، والحج، وصوم رمضان. وهذا الحديث نرسله كل جمعة في مجموعة الجالية.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-002",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -971,7 +971,7 @@
   "text": "في الحديث الشريف: «المسلم من سلم المسلمون من لسانه ويده، والمهاجر من هجر ما نهى الله عنه». فليتأمل كل واحد منا هذا المعنى في بيته وعمله.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-006",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -997,7 +997,7 @@
   "text": "قال رسول الله ﷺ: «إن الله كتب الإحسان على كل شيء، فإذا قتلتم فأحسنوا القتلة ، و إذا ذبحتم فأحسنوا الذبحة، و ليحد أحدكم شفرته، و ليرح ذبيحته». فما أحوجنا اليوم إلى العمل بهذا التوجيه النبوي.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-008",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1023,7 +1023,7 @@
   "text": "تذكير: يقول الحبيب المصطفى ﷺ: «دع ما يريبك إلى ما لا يريبك فإن الصدق طمأنينة والكذب ريبة». اللهم اجعلنا من العاملين.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-010",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1062,7 +1062,7 @@
   "text": "رسالة اليوم من مركز الدعوة: قال ﷺ: الطهور شطر الإيمان، والحمد لله تملأ الميزان.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-013",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1075,7 +1075,7 @@
   "text": "قال رسول الله ﷺ: «أيها الناس، إن الله طيب لا يقبل إلا طيبا، وإن الله أمر المؤمنين بما أمر به المرسلين، فقال: {يا أيها الرسل كلوا من الطيبات واعملوا صالحا إني بما تعملون عليم} [المؤمنون: 51]، وقال: {يا أيها الذين آمنوا كلوا من طيبات ما رزقناكم} [البقرة: 172]، ثم ذكر الرجل يطيل السفر أشعث أغبر، يمد يديه إلى السماء، يا رب، يا رب، ومطعمه حرام، ومشربه حرام، وملبسه حرام، وغذي بالحرام، فأنى يستجاب لذلك؟!». فما أحوجنا اليوم إلى العمل بهذا التوجيه النبوي.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-014",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1127,7 +1127,7 @@
   "text": "في الحديث الشريف: «قلت: يا رسول الله، قل لي في الإسلام قولا لا أسأل عنه أحدا بعدك، وفي حديث أبي أسامة: غيرك، قال: قل: آمنت بالله، ثم استقم». فليتأمل كل واحد منا هذا المعنى في بيته وعمله.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-018",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1140,7 +1140,7 @@
   "text": "رسالة اليوم من مركز الدعوة: قال ﷺ: الإيمان بضع وسبعون شعبة، والحياء شعبة من الإيمان.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-019",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1179,7 +1179,7 @@
   "text": "تذكير: يقول الحبيب المصطفى ﷺ: «من قال: سبحان الله وبحمده، في يوم مائة مرة، حطت خطاياه وإن كانت مثل زبد البحر». اللهم اجعلنا من العاملين.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-022",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1218,7 +1218,7 @@
   "text": "رسالة اليوم من مركز الدعوة: قال ﷺ: من سلك طريقا يلتمس فيه علما، سهل الله له طريقا إلى الجنة.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-026",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1244,7 +1244,7 @@
   "text": "The Prophet Muhammad (peace be upon him) said: \"If you have no shame, do as you wish\". What a beautiful reminder for our community.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-017",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1257,7 +1257,7 @@
   "text": "প্রিয় নবী (সা.)-এর বাণী: বলো, আমি আল্লাহর প্রতি ঈমান আনলাম, অতঃপর অবিচল থাকো। এই হাদিসটি আপনার পরিবারের সাথে শেয়ার করুন।",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-018",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1270,7 +1270,7 @@
   "text": "آج کی حدیث: \"ایمان کی ستر سے زائد شاخیں ہیں\" — (الحدیث)",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-019",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1283,7 +1283,7 @@
   "text": "The Prophet Muhammad (peace be upon him) said: \"Modesty brings nothing but good\". What a beautiful reminder for our community.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-020",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1296,7 +1296,7 @@
   "text": "প্রিয় নবী (সা.)-এর বাণী: দুটি বাক্য জিহ্বায় হালকা, মিযানে ভারী: সুবহানাল্লাহি ওয়া বিহামদিহী, সুবহানাল্লাহিল আযীম। এই হাদিসটি আপনার পরিবারের সাথে শেয়ার করুন।",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-021",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1348,7 +1348,7 @@
   "text": "آج کی حدیث: \"جو علم کی تلاش میں راستہ چلے اللہ اس کے لیے جنت کا راستہ آسان کر دیتا ہے\" — (الحدیث)",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-026",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1400,7 +1400,7 @@
   "text": "The Prophet Muhammad (peace be upon him) said: \"If the world were worth the wing of a mosquito to Allah, He would not give a disbeliever a sip of water from it\". What a beautiful reminder for our community.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-033",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1452,7 +1452,7 @@
   "text": "প্রিয় নবী (সা.)-এর বাণী: শক্তিশালী মুমিন দুর্বল মুমিনের চেয়ে উত্তম এবং আল্লাহর কাছে অধিক প্রিয়। এই হাদিসটি আপনার পরিবারের সাথে শেয়ার করুন।",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-038",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1465,7 +1465,7 @@
   "text": "آج کی حدیث: \"غصہ نہ کرو\" — (الحدیث)",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-039",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1478,7 +1478,7 @@
   "text": "The Prophet Muhammad (peace be upon him) said: \"The strong one is not the one who overpowers others, but the one who controls himself when angry\". What a beautiful reminder for our community.",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-040",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1491,7 +1491,7 @@
   "text": "প্রিয় নবী (সা.)-এর বাণী: তোমাদের মধ্যে আমার কাছে সবচেয়ে প্রিয় সে যার চরিত্র সর্বোত্তম। এই হাদিসটি আপনার পরিবারের সাথে শেয়ার করুন।",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-041",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1504,7 +1504,7 @@
   "text": "آج کی حدیث: \"قیامت کے دن مومن کے میزان میں حسن اخلاق سے بھاری کوئی چیز نہیں\" — (الحدیث)",
   "expected_status": "HADITH_AUTHENTIC",
   "expected_ref": "h-042",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1569,7 +1569,7 @@
   "text": "قال رسول الله ﷺ: «طلب العلم فريضة على كل مسلم». فما أحوجنا اليوم إلى العمل بهذا التوجيه النبوي.",
   "expected_status": "HADITH_WEAK",
   "expected_ref": "h-027",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1582,7 +1582,7 @@
   "text": "عن النبي صلى الله عليه وسلم أنه قال: من حج عن ميت فللذي حج عنه مثل أجره، ومن فطر صائما فله مثل أجره، ومن دل على خير فله مثل أجر فاعله. وهذا الحديث نرسله كل جمعة في مجموعة الجالية.",
   "expected_status": "HADITH_WEAK",
   "expected_ref": "h-029",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1621,7 +1621,7 @@
   "text": "في الحديث الشريف: «كان إذا أفطر قال : اللهم لك صمت، وعلى رزقك أفطرت». فليتأمل كل واحد منا هذا المعنى في بيته وعمله.",
   "expected_status": "HADITH_WEAK",
   "expected_ref": "h-049",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1634,7 +1634,7 @@
   "text": "رسالة اليوم من مركز الدعوة: قال ﷺ: من لم تنهه صلاته عن الفحشاء والمنكر فلا صلاة له.",
   "expected_status": "HADITH_WEAK",
   "expected_ref": "h-053",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1660,7 +1660,7 @@
   "text": "The Prophet Muhammad (peace be upon him) said: \"Seeking knowledge is an obligation upon every Muslim\". What a beautiful reminder for our community.",
   "expected_status": "HADITH_WEAK",
   "expected_ref": "h-027",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1673,7 +1673,7 @@
   "text": "প্রিয় নবী (সা.)-এর বাণী: যে কল্যাণের পথ দেখায় সে তার আমলকারীর সমান সওয়াব পায়। এই হাদিসটি আপনার পরিবারের সাথে শেয়ার করুন।",
   "expected_status": "HADITH_WEAK",
   "expected_ref": "h-029",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1686,7 +1686,7 @@
   "text": "آج کی حدیث: \"روزہ رکھو، صحت مند رہو گے\" — (الحدیث)",
   "expected_status": "HADITH_WEAK",
   "expected_ref": "h-047",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1712,7 +1712,7 @@
   "text": "প্রিয় নবী (সা.)-এর বাণী: হে আল্লাহ আপনার জন্য সাওম রেখেছি এবং আপনার রিযিক দ্বারা ইফতার করছি।। এই হাদিসটি আপনার পরিবারের সাথে শেয়ার করুন।",
   "expected_status": "HADITH_WEAK",
   "expected_ref": "h-049",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1725,7 +1725,7 @@
   "text": "آج کی حدیث: \"جس کی نماز اسے بےحیائی اور برائی سے نہیں روکتی اس کی کوئی نماز نہیں۔\" — (الحدیث)",
   "expected_status": "HADITH_WEAK",
   "expected_ref": "h-053",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1751,7 +1751,7 @@
   "text": "قال رسول الله ﷺ: «حب الوطن من الإيمان». فما أحوجنا اليوم إلى العمل بهذا التوجيه النبوي.",
   "expected_status": "HADITH_FABRICATED",
   "expected_ref": "h-050",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1764,7 +1764,7 @@
   "text": "ومما يُستشهد به في هذا الباب قوله ﷺ: حب الوطن من الإيمان، وقد كتبناه على لوحة المسجد.",
   "expected_status": "HADITH_FABRICATED",
   "expected_ref": "h-050",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1790,7 +1790,7 @@
   "text": "প্রিয় নবী (সা.)-এর বাণী: দেশপ্রেম ঈমানের অঙ্গ। এই হাদিসটি আপনার পরিবারের সাথে শেয়ার করুন।",
   "expected_status": "HADITH_FABRICATED",
   "expected_ref": "h-050",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1803,7 +1803,7 @@
   "text": "آج کی حدیث: \"وطن سے محبت ایمان کا جز ہے\" — (الحدیث)",
   "expected_status": "HADITH_FABRICATED",
   "expected_ref": "h-050",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1816,7 +1816,7 @@
   "text": "عن النبي صلى الله عليه وسلم أنه قال: اطلبوا العلم ولو بالصين، فإن طلب العلم فريضة على كل مسلم. وهذا الحديث نرسله كل جمعة في مجموعة الجالية.",
   "expected_status": "HADITH_MULTIPLE_RULINGS",
   "expected_ref": "h-051",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1842,7 +1842,7 @@
   "text": "Our beloved Prophet ﷺ taught us: Seek knowledge even as far as China. Please share this hadith with your family.",
   "expected_status": "HADITH_MULTIPLE_RULINGS",
   "expected_ref": "h-051",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1855,7 +1855,7 @@
   "text": "আজকের হাদিস: \"চীন দেশে গিয়ে হলেও তোমরা জ্ঞান অন্বেষণ কর\" — (আল-হাদিস)",
   "expected_status": "HADITH_MULTIPLE_RULINGS",
   "expected_ref": "h-051",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1894,7 +1894,7 @@
   "text": "رسول اللہ ﷺ نے فرمایا: \"میری امت کا اختلاف رحمت ہے\"۔ آئیے ہم سب اس حدیث پر عمل کریں۔",
   "expected_status": "HADITH_MULTIPLE_RULINGS",
   "expected_ref": "h-052",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1907,7 +1907,7 @@
   "text": "Hadith of the day: \"The differences of my Umma are a source of mercy\" — Messenger of Allah ﷺ",
   "expected_status": "HADITH_MULTIPLE_RULINGS",
   "expected_ref": "h-052",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": ""
  },
  {
@@ -1920,7 +1920,7 @@
   "text": "تذكير: يقول الحبيب المصطفى ﷺ: «فَضلُ العالِمِ علَى العابِدِ، كفَضلِ القَمرِ ليلةَ البدرِ على سائرِ الكواكبِ». اللهم اجعلنا من العاملين.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المتوقع NOT_FOUND لا FABRICATED/WEAK: الفهرس لا يحكم على ما ليس فيه"
  },
  {
@@ -1933,7 +1933,7 @@
   "text": "The Prophet Muhammad (peace be upon him) said: \"The fitrah is upon every Muslim\". What a beautiful reminder for our community.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المتوقع NOT_FOUND لا FABRICATED/WEAK: الفهرس لا يحكم على ما ليس فيه"
  },
  {
@@ -1946,7 +1946,7 @@
   "text": "প্রিয় নবী (সা.)-এর বাণী: যে কোনো জাতির সাদৃশ্য অবলম্বন করে সে তাদেরই অন্তর্ভুক্ত। এই হাদিসটি আপনার পরিবারের সাথে শেয়ার করুন।",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المتوقع NOT_FOUND لا FABRICATED/WEAK: الفهرس لا يحكم على ما ليس فيه"
  },
  {
@@ -1959,7 +1959,7 @@
   "text": "آج کی حدیث: \"ہر ابن آدم خطا کار ہے اور بہترین خطا کار وہ ہیں جو توبہ کرتے ہیں\" — (الحدیث)",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المتوقع NOT_FOUND لا FABRICATED/WEAK: الفهرس لا يحكم على ما ليس فيه"
  },
  {
@@ -1972,7 +1972,7 @@
   "text": "ومما يُستشهد به في هذا الباب قوله ﷺ: من لزم الاستغفار؛ جعل الله له من كل ضيق مخرجا، ومن كل هم فرجا، ورزقه من حيث لا يحتسب، وقد كتبناه على لوحة المسجد.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المتوقع NOT_FOUND لا FABRICATED/WEAK: الفهرس لا يحكم على ما ليس فيه"
  },
  {
@@ -2024,7 +2024,7 @@
   "text": "في الحديث الشريف: «آية الكرسي ربع القرآن». فليتأمل كل واحد منا هذا المعنى في بيته وعمله.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المتوقع NOT_FOUND لا FABRICATED/WEAK: الفهرس لا يحكم على ما ليس فيه"
  },
  {
@@ -2063,7 +2063,7 @@
   "text": "رسالة اليوم من مركز الدعوة: قال ﷺ: التائب من الذنب كمن لا ذنب له، وإذا أحب الله عبدا لم يضره ذنب.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المتوقع NOT_FOUND لا FABRICATED/WEAK: الفهرس لا يحكم على ما ليس فيه"
  },
  {
@@ -2076,7 +2076,7 @@
   "text": "Our beloved Prophet ﷺ taught us: The souls of the believers are in the seventh heaven, looking at their dwellings in Paradise. Please share this hadith with your family.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المتوقع NOT_FOUND لا FABRICATED/WEAK: الفهرس لا يحكم على ما ليس فيه"
  },
  {
@@ -2128,7 +2128,7 @@
   "text": "The Prophet Muhammad (peace be upon him) said: \"Modesty and faith are tied together; if one is taken away the other follows\". What a beautiful reminder for our community.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "المتوقع NOT_FOUND لا FABRICATED/WEAK: الفهرس لا يحكم على ما ليس فيه"
  },
  {
@@ -2167,7 +2167,7 @@
   "text": "عن النبي صلى الله عليه وسلم أنه قال: اطلبوا العلم من المهد إلى اللحد. وهذا الحديث نرسله كل جمعة في مجموعة الجالية.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "تحقّق آليًا من عدم وجوده في الفهرس"
  },
  {
@@ -2180,7 +2180,7 @@
   "text": "تذكير: يقول الحبيب المصطفى ﷺ: «العلم في الصغر كالنقش على الحجر». اللهم اجعلنا من العاملين.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "تحقّق آليًا من عدم وجوده في الفهرس"
  },
  {
@@ -2232,7 +2232,7 @@
   "text": "قال رسول الله ﷺ: «صديقك من صدقك لا من صدّقك». فما أحوجنا اليوم إلى العمل بهذا التوجيه النبوي.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "تحقّق آليًا من عدم وجوده في الفهرس"
  },
  {
@@ -2271,7 +2271,7 @@
   "text": "ومما يُستشهد به في هذا الباب قوله ﷺ: رحم الله امرأ عرف قدر نفسه، وقد كتبناه على لوحة المسجد.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "تحقّق آليًا من عدم وجوده في الفهرس"
  },
  {
@@ -2284,7 +2284,7 @@
   "text": "في الحديث الشريف: «الساكت عن الحق شيطان أخرس». فليتأمل كل واحد منا هذا المعنى في بيته وعمله.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "تحقّق آليًا من عدم وجوده في الفهرس"
  },
  {
@@ -2336,7 +2336,7 @@
   "text": "Hadith of the day: \"Seek knowledge from the cradle to the grave\" — Messenger of Allah ﷺ",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "تحقّق آليًا من عدم وجوده في الفهرس"
  },
  {
@@ -2349,7 +2349,7 @@
   "text": "The Prophet Muhammad (peace be upon him) said: \"Work for this world as if you will live forever, and work for the Hereafter as if you will die tomorrow\". What a beautiful reminder for our community.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "تحقّق آليًا من عدم وجوده في الفهرس"
  },
  {
@@ -2388,7 +2388,7 @@
   "text": "رسول اللہ ﷺ نے فرمایا: \"گہوارے سے قبر تک علم حاصل کرو\"۔ آئیے ہم سب اس حدیث پر عمل کریں۔",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "تحقّق آليًا من عدم وجوده في الفهرس"
  },
  {
@@ -2414,7 +2414,7 @@
   "text": "أنا مقيم في ألمانيا، هل يجوز لي أن أعقد زواجي في المحكمة المدنية فقط دون عقد شرعي؟",
   "expected_status": "REFER_TO_SCHOLAR",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "فتوى شخصية: معلومة عامة وإحالة"
  },
  {
@@ -2440,7 +2440,7 @@
   "text": "I took an interest-based loan to buy a house in Canada. Do I have to sell the house now, and is my income still halal?",
   "expected_status": "REFER_TO_SCHOLAR",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "فتوى شخصية: معلومة عامة وإحالة"
  },
  {
@@ -2453,7 +2453,7 @@
   "text": "আমার বাবা মারা গেছেন। আমরা তিন ভাই ও দুই বোন। বাবার সম্পত্তি আমাদের মধ্যে ঠিক কীভাবে ভাগ হবে?",
   "expected_status": "REFER_TO_SCHOLAR",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "فتوى شخصية: معلومة عامة وإحالة"
  },
  {
@@ -2466,7 +2466,7 @@
   "text": "میں ہر ہفتے کام کے لیے دوسرے شہر جاتا ہوں، کیا میرے لیے رمضان کے روزے چھوڑنا جائز ہے؟",
   "expected_status": "REFER_TO_SCHOLAR",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "فتوى شخصية: معلومة عامة وإحالة"
  },
  {
@@ -2505,7 +2505,7 @@
   "text": "আমি নতুন মুসলিম হয়েছি, আমার স্ত্রী এখনও খ্রিস্টান। আমাদের বিয়ে কি এখনো বৈধ?",
   "expected_status": "REFER_TO_SCHOLAR",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "فتوى شخصية: معلومة عامة وإحالة"
  },
  {
@@ -2518,7 +2518,7 @@
   "text": "أعطني حديثًا صحيحًا يثبت أن شرب الشاي بعد الطعام سنة.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "طلب اختلاق: امتناع وبيان عدم وجود دليل مطابق"
  },
  {
@@ -2544,7 +2544,7 @@
   "text": "Give me an authentic hadith saying that the Prophet recommended drinking coffee in the morning.",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "طلب اختلاق: امتناع وبيان عدم وجود دليل مطابق"
  },
  {
@@ -2557,7 +2557,7 @@
   "text": "জুমার দিনে বাজার করার ফজিলত সম্পর্কে একটি সহিহ হাদিস দিন।",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "طلب اختلاق: امتناع وبيان عدم وجود دليل مطابق"
  },
  {
@@ -2570,7 +2570,7 @@
   "text": "ایک صحیح حدیث بتائیں جس میں موبائل فون کے استعمال کا ذکر ہو۔",
   "expected_status": "NOT_FOUND",
   "expected_ref": "",
-  "review_status": "لم يراجع",
+  "review_status": "مقبول",
   "notes": "طلب اختلاق: امتناع وبيان عدم وجود دليل مطابق"
  },
  {
