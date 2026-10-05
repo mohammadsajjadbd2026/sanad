@@ -24,8 +24,14 @@ test("near Quran is never marked verified and near hadith never inherits ruling"
 test("unknown, personal fatwa, out of scope and invalid input fail safely", async () => {
   assert.equal((await verify("عبارة تجريبية لا تنسب إلى الوحي" )).findings[0].status, "NOT_FOUND");
   assert.equal((await verify("هل يجوز لي أخذ هذا المال؟")).findings[0].status, "REFER_TO_SCHOLAR");
+  assert.equal((await verify("আমার বাবা মারা গেছেন। আমাদের সম্পত্তি কীভাবে ভাগ হবে?")).findings[0].status, "REFER_TO_SCHOLAR");
   assert.equal((await verify("123456789")).findings[0].status, "OUT_OF_SCOPE");
   await assert.rejects(verify("")); await assert.rejects(verify("a".repeat(12001)));
+});
+test("changed Quran wording is only suggested as differing", async () => {
+  const report = await verify("ومن الأدلة قوله تعالى: إلا رحمة من ربك إن فضله كان عليك عظيما، فتأمل المعنى.");
+  assert.ok(report.findings.some(f => f.status === "QURAN_WORDING_DIFFERS" && f.ref === "17:87"));
+  assert.ok(!report.findings.some(f => f.status === "QURAN_VERIFIED"));
 });
 test("quoted scripture is isolated from surrounding prose", async () => {
   const q = (await getCandidates()).find(r => r.kind === "quran" && r.ref === "112:1")!;

@@ -39,7 +39,7 @@ export async function verify(text: string): Promise<Report> {
     const search = normalizeForSearch(quote);
     const near = rows.filter(r => r.kind === "quran" && r.language === "ar" && r.search.split(" ").length >= 4)
       .map(row => ({ row, score: tokenSimilarity(search, row.search) })).sort((a, b) => b.score - a.score)[0];
-    if (near && near.score >= 0.85 && search.split(" ").length >= 4) {
+    if (near && near.score >= 0.7 && search.split(" ").length >= 4) {
       const id = `quran:${near.row.ref}`;
       if (!seen.has(id)) { findings.push(decide(near.row, quote, false)); seen.add(id); }
     } else findings.push({ quote, status: /[\u0600-\u06ff\u0980-\u09ffa-z]/iu.test(quote) ? "NOT_FOUND" : "OUT_OF_SCOPE", reason: "لم تتحقق مطابقة في المصادر المحلية. لا يعني ذلك أن النص باطل أو موضوع؛ راجع مصدرًا متخصصًا." });
