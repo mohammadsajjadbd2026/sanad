@@ -21,7 +21,7 @@ export function Navigation() {
           {open ? <X aria-hidden="true" /> : <Menu aria-hidden="true" />}
         </button>
         <nav id="main-navigation" className={`main-nav ${open ? "is-open" : ""}`} aria-label="التنقل الرئيسي" onKeyDown={(e) => { if (e.key === "Escape") setOpen(false); }}>
-          {[{ href: "/", label: "الرئيسية" }, ...stations.map(s => ({ href: `/${s.slug}`, label: s.name })), { href: "/about", label: "عن سَنَد" }].map(item => (
+          {[{ href: "/", label: "الرئيسية" }, ...stations.map(s => ({ href: `/${s.slug}`, label: s.name })), { href: "/library", label: "المكتبة" }, { href: "/about", label: "عن سَنَد" }].map(item => (
             <Link key={item.href} href={item.href} aria-current={pathname === item.href ? "page" : undefined} onClick={() => setOpen(false)}>{item.label}</Link>
           ))}
         </nav>

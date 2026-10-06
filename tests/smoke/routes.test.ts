@@ -3,7 +3,7 @@ import { test } from "node:test";
 import { disclaimer, stations } from "../../lib/journey";
 
 const base = process.env.SMOKE_BASE_URL ?? "http://127.0.0.1:3000";
-for (const path of ["/", ...stations.map(s => `/${s.slug}`), "/about"]) {
+for (const path of ["/", ...stations.map(s => `/${s.slug}`), "/about", "/library", "/report-error"]) {
   test(`الصفحة ${path} تُعرض بالعربية مع التنبيه`, async () => {
     const response = await fetch(`${base}${path}`);
     assert.equal(response.status, 200);

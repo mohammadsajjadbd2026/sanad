@@ -21,7 +21,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <main id="main-content">{children}</main>
         <footer className="site-footer container">
           <div><strong>سَنَد</strong><span>النموذج يقترح، والمصدر وحده يحكم.</span></div>
-          <div className="footer-links"><Link href="/about">المنهج والمصادر</Link><span>نسخة أولية · ٢٠٢٦</span></div>
+          <div className="footer-links"><Link href="/library">بحث موحّد</Link><Link href="/report-error">أبلغ عن خطأ</Link><Link href="/about">المنهج والمصادر</Link><span>نسخة أولية · ٢٠٢٦</span></div>
         </footer>
       </body>
     </html>
