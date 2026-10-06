@@ -1,6 +1,7 @@
 import "server-only";
 import { loadQuran } from "../sources/quran";
 import { loadHadith } from "../sources/hadith";
+import { loadAlternativeTranslations } from "../sources/quran-alternatives";
 import { normalizeForComparison, normalizeForSearch } from "./normalize";
 import type { Hadith, Language } from "../sources/schemas";
 
@@ -18,6 +19,10 @@ export function getCandidates(): Promise<Candidate[]> {
         const source = quran.get(ref, lang)!;
         add({ kind: "quran", ref, text: source.text, arabic: ar.uthmani, language: lang, attribution: source.attribution });
       }
+    }
+    const alternatives = await loadAlternativeTranslations(Object.keys(quran.arabic));
+    for (const edition of alternatives) for (const [ref, text] of Object.entries(edition.texts)) {
+      add({ kind: "quran", ref, text, arabic: quran.arabic[ref].uthmani, language: edition.language, attribution: edition.attribution });
     }
     for (const h of hadith.records) {
       add({ kind: "hadith", ref: h.id, text: h.text_ar, arabic: h.text_ar, language: "ar", attribution: "فهرس الحديث المحلي", hadith: h });

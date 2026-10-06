@@ -37,9 +37,9 @@ test("استجابة API ناقصة أو مبتورة تُرفض ولا يصبح
   const denied = createEmbedder(fixtureConfig, { embedContent: async () => { throw { status: 403, message: "sensitive-test-value" }; } });
   await assert.rejects(() => denied("fixture"), error => error instanceof EmbeddingProviderError && error.status === 403 && !error.retryable && !error.message.includes("sensitive-test-value"));
 });
-test("أخطاء الحصة المؤقتة تعاد 3 مرات كحد أقصى وأخطاء الاعتماد لا تعاد", async () => {
+test("أخطاء الخادم المؤقتة تعاد 3 مرات كحد أقصى وأخطاء الاعتماد لا تعاد", async () => {
   let calls = 0; const delays: number[] = [];
-  await assert.rejects(() => retryEmbedding(async () => { calls++; throw new EmbeddingProviderError(429, true); }, async ms => { delays.push(ms); }));
+  await assert.rejects(() => retryEmbedding(async () => { calls++; throw new EmbeddingProviderError(503, true); }, async ms => { delays.push(ms); }));
   assert.equal(calls, 4); assert.deepEqual(delays, [2000, 4000, 8000]);
   calls = 0;
   await assert.rejects(() => retryEmbedding(async () => { calls++; throw new EmbeddingProviderError(403, false); }, async () => undefined));

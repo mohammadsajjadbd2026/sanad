@@ -15,6 +15,7 @@
     "embeddings:sample": "tsx --conditions=react-server scripts/build-embeddings.ts --sample 20",
     "embeddings:build": "tsx --conditions=react-server scripts/build-embeddings.ts",
     "env:check": "tsx scripts/check-env.ts",
+    "gemini:check": "tsx --conditions=react-server scripts/check-gemini.ts",
     "test:smoke": "tsx --test tests/smoke/*.test.ts"
   },
   "engines": {

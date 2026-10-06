@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-10-05T21:31:37.232Z",
+  "model": "gemini-3.1-flash-lite",
+  "captionValidated": true,
+  "results": [
+    {
+      "language": "ar",
+      "query": "لماذا يصوم المسلمون؟",
+      "ids": [
+        "b-010"
+      ]
+    },
+    {
+      "language": "en",
+      "query": "Why do Muslims fast?",
+      "ids": [
+        "b-010"
+      ]
+    },
+    {
+      "language": "bn",
+      "query": "মুসলমানরা কেন রোজা রাখে?",
+      "ids": [
+        "b-010"
+      ]
+    },
+    {
+      "language": "ur",
+      "query": "مسلمان روزہ کیوں رکھتے ہیں؟",
+      "ids": null
+    }
+  ],
+  "note": "فحص اتصال واسترجاع لأمثلة صغيرة، وليس تقييم دقة معتمدًا أو اختبارًا دينيًا."
+}
